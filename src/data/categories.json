@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Zorg"
+  },
+  {
+    "id": 2,
+    "name": "Voedsel"
+  },
+  {
+    "id": 3,
+    "name": "Water"
+  },
+  {
+    "id": 4,
+    "name": "Stroom"
+  },
+  {
+    "id": 5,
+    "name": "Informatie"
+  },
+  {
+    "id": 6,
+    "name": "Opvang"
+  },
+  {
+    "id": 7,
+    "name": "Veiligheid"
+  },
+  {
+    "id": 8,
+    "name": "Vervoer"
+  },
+  {
+    "id": 9,
+    "name": "Sport"
+  },
+  {
+    "id": 10,
+    "name": "Religie"
+  }
+]

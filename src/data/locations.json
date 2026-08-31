@@ -1,0 +1,212 @@
+[
+    {
+      "id": 1,
+      "name": "Ziekenhuis Centrum",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 1,
+      "type": "Ziekenhuis",
+      "lat": 51.4416,
+      "lng": 5.4697
+    },
+    {
+      "id": 2,
+      "name": "Apotheek Strijp",
+      "image": "https://images.unsplash.com/photo-1585435557343-3b092031a831?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1585435557343-3b092031a831?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 1,
+      "type": "Apotheek",
+      "lat": 51.4472,
+      "lng": 5.4479
+    },
+    {
+      "id": 3,
+      "name": "Supermarkt Woensel",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 2,
+      "type": "Supermarkt",
+      "lat": 51.4751,
+      "lng": 5.4758
+    },
+    {
+      "id": 4,
+      "name": "Drinkwaterpunt Centrum",
+      "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 3,
+      "type": "Drinkwaterpunt",
+      "lat": 51.4388,
+      "lng": 5.4782
+    },
+    {
+      "id": 5,
+      "name": "Waterbijvulpunt Tongelre",
+      "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 3,
+      "type": "Waterbijvulpunt",
+      "lat": 51.4374,
+      "lng": 5.5041
+    },
+    {
+      "id": 6,
+      "name": "Mobiele Accu-uitgifte Station",
+      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 4,
+      "type": "Mobiele accu-uitgifte",
+      "lat": 51.4485,
+      "lng": 5.4819
+    },
+    {
+      "id": 7,
+      "name": "Centraal Informatiepunt",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 5,
+      "type": "Centraal informatiepunt",
+      "lat": 51.4392,
+      "lng": 5.4789
+    },
+    {
+      "id": 8,
+      "name": "Sporthal Zuid",
+      "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 9,
+      "type": "Sporthal",
+      "lat": 51.4208,
+      "lng": 5.4793
+    },
+    {
+      "id": 9,
+      "name": "Politiepost Centrum",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 7,
+      "type": "Politie",
+      "lat": 51.4358,
+      "lng": 5.4796
+    },
+    {
+      "id": 10,
+      "name": "Fietsuitgiftepunt Station",
+      "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 8,
+      "type": "Fietsuitgiftepunt",
+      "lat": 51.4436,
+      "lng": 5.4791
+    },
+    {
+      "id": 11,
+      "name": "Sportpark Genneper Parken",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 9,
+      "type": "Sportpark",
+      "lat": 51.4058,
+      "lng": 5.4786
+    },
+    {
+      "id": 12,
+      "name": "Voetbalvereniging Woensel",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 9,
+      "type": "Voetbalvereniging",
+      "lat": 51.4703,
+      "lng": 5.4788
+    },
+    {
+      "id": 13,
+      "name": "Sportschool Strijp",
+      "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 9,
+      "type": "Sportschool",
+      "lat": 51.4482,
+      "lng": 5.4451
+    },
+    {
+      "id": 14,
+      "name": "Moskee Centrum",
+      "image": "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 10,
+      "type": "Moskee",
+      "lat": 51.4385,
+      "lng": 5.477
+    },
+    {
+      "id": 15,
+      "name": "Kerk Centrum",
+      "image": "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "categoryid": 10,
+      "type": "Kerk",
+      "lat": 51.4359,
+      "lng": 5.4799
+    }
+]

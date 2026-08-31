@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Locatieafbeelding niet beschikbaar</title>
+  <desc id="desc">Neutrale kaartafbeelding als fallback voor een locatie</desc>
+  <rect width="1200" height="700" fill="#e5e7eb"/>
+  <path d="M0 540 210 390l170 90 170-150 190 120 160-90 300 180v150H0Z" fill="#cbd5e1"/>
+  <path d="M0 210 220 90l180 100 180-120 190 120 190-80 240 130v100L950 230 770 330 570 210 390 330 210 230 0 350Z" fill="#f8fafc" opacity=".8"/>
+  <circle cx="600" cy="330" r="92" fill="#111827"/>
+  <path d="M600 470c-16-26-68-83-68-129a68 68 0 1 1 136 0c0 46-52 103-68 129Zm0-102a27 27 0 1 0 0-54 27 27 0 0 0 0 54Z" fill="#f8fafc"/>
+</svg>
