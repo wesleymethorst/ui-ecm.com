@@ -1,5 +1,19 @@
 # React + TypeScript + Vite
 
+## Offline map
+
+The map uses a local PMTiles map package for Eindhoven in
+`public/maps/eindhoven.pmtiles`. Vite copies this file to `dist/maps` during
+`npm run build`, so the production build does not need an external map server.
+
+The package covers the area from `5.15,51.20` to `5.80,51.68` at zoom levels
+0–15. The basemap is based on Protomaps and OpenStreetMap. Keep the visible
+attribution in the application when replacing the map package.
+
+For a real offline test, serve the built `dist` directory from the Raspberry Pi
+while the Pi has no internet connection. Then connect a phone using only the
+local WiFi network.
+
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
 Currently, two official plugins are available:

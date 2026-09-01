@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">EmergencyCrisisMap network mark</title>
-  <desc id="desc">Three connected rings forming the EmergencyCrisisMap logo</desc>
-  <circle cx="32" cy="21.5" r="13.5" stroke="#fff" stroke-width="5"/>
-  <circle cx="22" cy="40" r="13.5" stroke="#fff" stroke-width="5"/>
-  <circle cx="42" cy="40" r="13.5" stroke="#fff" stroke-width="5"/>
+  <title id="title">ECM — Emergency Crisis Map</title>
+  <desc id="desc">The ECM network mark for Emergency Crisis Map</desc>
+  <circle cx="32" cy="22" r="14" stroke="#fff" stroke-width="3.25"/>
+  <circle cx="23" cy="39" r="14" stroke="#fff" stroke-width="3.25"/>
+  <circle cx="41" cy="39" r="14" stroke="#fff" stroke-width="3.25"/>
 </svg>

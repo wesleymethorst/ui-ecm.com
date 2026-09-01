@@ -5,7 +5,20 @@
     "categoryid": 3,
     "type": "Drinkwaterpunt",
     "lat": 51.44726,
-    "lng": 5.48717
+    "lng": 5.48717,
+    "image": "/location-images/1.jpg",
+    "images": [
+      "/location-images/1.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/234/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 191,
+    "imageCoordinates": [
+      51.445558,
+      5.48754
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:18.000"
   },
   {
     "id": 2,
@@ -13,7 +26,20 @@
     "categoryid": 3,
     "type": "Drinkwaterpunt",
     "lat": 51.44731,
-    "lng": 5.49141
+    "lng": 5.49141,
+    "image": "/location-images/2.jpg",
+    "images": [
+      "/location-images/2.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/218/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 166,
+    "imageCoordinates": [
+      51.445842,
+      5.491809
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:02.000"
   },
   {
     "id": 3,
@@ -21,7 +47,20 @@
     "categoryid": 3,
     "type": "Drinkwaterpunt",
     "lat": 51.44062,
-    "lng": 5.47995
+    "lng": 5.47995,
+    "image": "/location-images/3.jpg",
+    "images": [
+      "/location-images/3.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/390/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 104,
+    "imageCoordinates": [
+      51.441544,
+      5.479745
+    ],
+    "imageCapturedAt": "2019-03-13 15:33:45.000"
   },
   {
     "id": 4,
@@ -29,7 +68,20 @@
     "categoryid": 3,
     "type": "Drinkwaterpunt",
     "lat": 51.44081,
-    "lng": 5.48016
+    "lng": 5.48016,
+    "image": "/location-images/4.jpg",
+    "images": [
+      "/location-images/4.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/391/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 86,
+    "imageCoordinates": [
+      51.441557,
+      5.479848
+    ],
+    "imageCapturedAt": "2019-03-13 15:33:46.000"
   },
   {
     "id": 5,
@@ -37,7 +89,20 @@
     "categoryid": 3,
     "type": "Drinkwaterpunt",
     "lat": 51.44344,
-    "lng": 5.47827
+    "lng": 5.47827,
+    "image": "/location-images/5.jpg",
+    "images": [
+      "/location-images/5.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/350/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 82,
+    "imageCoordinates": [
+      51.443274,
+      5.477117
+    ],
+    "imageCapturedAt": "2019-03-13 15:32:25.000"
   },
   {
     "id": 6,
@@ -45,7 +110,20 @@
     "categoryid": 3,
     "type": "Drinkwaterpunt",
     "lat": 51.43119,
-    "lng": 5.49123
+    "lng": 5.49123,
+    "image": "/location-images/6.jpg",
+    "images": [
+      "/location-images/6.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369994/144/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 25,
+    "imageCoordinates": [
+      51.431393,
+      5.491077
+    ],
+    "imageCapturedAt": "2019-04-01 16:16:29.000"
   },
   {
     "id": 7,
@@ -53,7 +131,20 @@
     "categoryid": 3,
     "type": "Drinkwaterpunt",
     "lat": 51.44792,
-    "lng": 5.48617
+    "lng": 5.48617,
+    "image": "/location-images/7.jpg",
+    "images": [
+      "/location-images/7.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/238/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 272,
+    "imageCoordinates": [
+      51.445479,
+      5.486516
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:22.000"
   },
   {
     "id": 8,
@@ -61,7 +152,20 @@
     "categoryid": 3,
     "type": "Drinkwaterpunt",
     "lat": 51.45195,
-    "lng": 5.48077
+    "lng": 5.48077,
+    "image": "/location-images/8.jpg",
+    "images": [
+      "/location-images/8.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370770/237/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 125,
+    "imageCoordinates": [
+      51.45307,
+      5.48086
+    ],
+    "imageCapturedAt": "2019-03-28 19:00:07.000"
   },
   {
     "id": 9,
@@ -69,7 +173,20 @@
     "categoryid": 3,
     "type": "Drinkwaterpunt",
     "lat": 51.43798,
-    "lng": 5.47119
+    "lng": 5.47119,
+    "image": "/location-images/9.jpg",
+    "images": [
+      "/location-images/9.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1220/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 56,
+    "imageCoordinates": [
+      51.438478,
+      5.471312
+    ],
+    "imageCapturedAt": "2024-07-22 06:53:30.000"
   },
   {
     "id": 10,
@@ -77,7 +194,20 @@
     "categoryid": 1,
     "type": "Apotheek",
     "lat": 51.4344,
-    "lng": 5.47249
+    "lng": 5.47249,
+    "image": "/location-images/10.jpg",
+    "images": [
+      "/location-images/10.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370474/103/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 16,
+    "imageCoordinates": [
+      51.434525,
+      5.472614
+    ],
+    "imageCapturedAt": "2019-04-01 15:54:57.000"
   },
   {
     "id": 11,
@@ -85,7 +215,20 @@
     "categoryid": 1,
     "type": "Huisarts",
     "lat": 51.43433,
-    "lng": 5.47249
+    "lng": 5.47249,
+    "image": "/location-images/11.jpg",
+    "images": [
+      "/location-images/11.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370474/103/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 23,
+    "imageCoordinates": [
+      51.434525,
+      5.472614
+    ],
+    "imageCapturedAt": "2019-04-01 15:54:57.000"
   },
   {
     "id": 12,
@@ -93,7 +236,20 @@
     "categoryid": 1,
     "type": "Huisarts",
     "lat": 51.43269,
-    "lng": 5.48266
+    "lng": 5.48266,
+    "image": "/location-images/12.jpg",
+    "images": [
+      "/location-images/12.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370506/15/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 117,
+    "imageCoordinates": [
+      51.431644,
+      5.482831
+    ],
+    "imageCapturedAt": "2019-04-01 15:59:01.000"
   },
   {
     "id": 13,
@@ -101,7 +257,20 @@
     "categoryid": 1,
     "type": "Apotheek",
     "lat": 51.4323,
-    "lng": 5.4832
+    "lng": 5.4832,
+    "image": "/location-images/13.jpg",
+    "images": [
+      "/location-images/13.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370506/17/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 74,
+    "imageCoordinates": [
+      51.431638,
+      5.48304
+    ],
+    "imageCapturedAt": "2019-04-01 15:59:03.000"
   },
   {
     "id": 14,
@@ -109,7 +278,20 @@
     "categoryid": 1,
     "type": "Kliniek",
     "lat": 51.43187,
-    "lng": 5.48654
+    "lng": 5.48654,
+    "image": "/location-images/14.jpg",
+    "images": [
+      "/location-images/14.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1287051/2/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 153,
+    "imageCoordinates": [
+      51.431077,
+      5.484731
+    ],
+    "imageCapturedAt": "2018-09-06 05:47:47.000"
   },
   {
     "id": 15,
@@ -117,7 +299,20 @@
     "categoryid": 1,
     "type": "Huisarts",
     "lat": 51.44399,
-    "lng": 5.50072
+    "lng": 5.50072,
+    "image": "/location-images/15.jpg",
+    "images": [
+      "/location-images/15.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369922/908/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 140,
+    "imageCoordinates": [
+      51.444529,
+      5.502546
+    ],
+    "imageCapturedAt": "2019-04-06 13:33:07.000"
   },
   {
     "id": 16,
@@ -125,7 +320,20 @@
     "categoryid": 1,
     "type": "Apotheek",
     "lat": 51.44243,
-    "lng": 5.50099
+    "lng": 5.50099,
+    "image": "/location-images/16.jpg",
+    "images": [
+      "/location-images/16.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369922/926/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 183,
+    "imageCoordinates": [
+      51.442762,
+      5.503574
+    ],
+    "imageCapturedAt": "2019-04-06 13:33:25.000"
   },
   {
     "id": 17,
@@ -133,7 +341,20 @@
     "categoryid": 1,
     "type": "Huisarts",
     "lat": 51.44248,
-    "lng": 5.50094
+    "lng": 5.50094,
+    "image": "/location-images/17.jpg",
+    "images": [
+      "/location-images/17.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369922/925/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 185,
+    "imageCoordinates": [
+      51.442871,
+      5.503537
+    ],
+    "imageCapturedAt": "2019-04-06 13:33:24.000"
   },
   {
     "id": 18,
@@ -141,7 +362,20 @@
     "categoryid": 1,
     "type": "Kliniek",
     "lat": 51.4378,
-    "lng": 5.48223
+    "lng": 5.48223,
+    "image": "/location-images/18.jpg",
+    "images": [
+      "/location-images/18.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1412/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 45,
+    "imageCoordinates": [
+      51.438184,
+      5.482048
+    ],
+    "imageCapturedAt": "2024-07-22 06:56:42.000"
   },
   {
     "id": 19,
@@ -149,7 +383,20 @@
     "categoryid": 1,
     "type": "Kliniek",
     "lat": 51.44419,
-    "lng": 5.47993
+    "lng": 5.47993,
+    "image": "/location-images/19.jpg",
+    "images": [
+      "/location-images/19.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369906/155/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 82,
+    "imageCoordinates": [
+      51.444898,
+      5.47959
+    ],
+    "imageCapturedAt": "2019-04-06 18:37:58.000"
   },
   {
     "id": 20,
@@ -157,7 +404,20 @@
     "categoryid": 1,
     "type": "Huisarts",
     "lat": 51.43225,
-    "lng": 5.48334
+    "lng": 5.48334,
+    "image": "/location-images/20.jpg",
+    "images": [
+      "/location-images/20.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370506/17/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 71,
+    "imageCoordinates": [
+      51.431638,
+      5.48304
+    ],
+    "imageCapturedAt": "2019-04-01 15:59:03.000"
   },
   {
     "id": 21,
@@ -165,7 +425,20 @@
     "categoryid": 1,
     "type": "Huisarts",
     "lat": 51.43223,
-    "lng": 5.48338
+    "lng": 5.48338,
+    "image": "/location-images/21.jpg",
+    "images": [
+      "/location-images/21.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370506/17/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 70,
+    "imageCoordinates": [
+      51.431638,
+      5.48304
+    ],
+    "imageCapturedAt": "2019-04-01 15:59:03.000"
   },
   {
     "id": 22,
@@ -173,7 +446,20 @@
     "categoryid": 1,
     "type": "Huisarts",
     "lat": 51.4322,
-    "lng": 5.48342
+    "lng": 5.48342,
+    "image": "/location-images/22.jpg",
+    "images": [
+      "/location-images/22.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370506/17/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 68,
+    "imageCoordinates": [
+      51.431638,
+      5.48304
+    ],
+    "imageCapturedAt": "2019-04-01 15:59:03.000"
   },
   {
     "id": 23,
@@ -181,7 +467,20 @@
     "categoryid": 1,
     "type": "Kliniek",
     "lat": 51.43322,
-    "lng": 5.48187
+    "lng": 5.48187,
+    "image": "/location-images/23.jpg",
+    "images": [
+      "/location-images/23.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/12097/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 76,
+    "imageCoordinates": [
+      51.433693,
+      5.481069
+    ],
+    "imageCapturedAt": "2024-07-23 10:47:10.000"
   },
   {
     "id": 24,
@@ -189,7 +488,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.4516,
-    "lng": 5.47228
+    "lng": 5.47228,
+    "image": "/location-images/24.jpg",
+    "images": [
+      "/location-images/24.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11625/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 14,
+    "imageCoordinates": [
+      51.451541,
+      5.472106
+    ],
+    "imageCapturedAt": "2024-07-23 10:39:11.000"
   },
   {
     "id": 25,
@@ -197,7 +509,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.44915,
-    "lng": 5.47448
+    "lng": 5.47448,
+    "image": "/location-images/25.jpg",
+    "images": [
+      "/location-images/25.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11676/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 11,
+    "imageCoordinates": [
+      51.449101,
+      5.474337
+    ],
+    "imageCapturedAt": "2024-07-23 10:40:02.000"
   },
   {
     "id": 26,
@@ -205,7 +530,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.44672,
-    "lng": 5.4755
+    "lng": 5.4755,
+    "image": "/location-images/26.jpg",
+    "images": [
+      "/location-images/26.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11725/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 21,
+    "imageCoordinates": [
+      51.446571,
+      5.475306
+    ],
+    "imageCapturedAt": "2024-07-23 10:40:51.000"
   },
   {
     "id": 27,
@@ -213,7 +551,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.43324,
-    "lng": 5.48976
+    "lng": 5.48976,
+    "image": "/location-images/27.jpg",
+    "images": [
+      "/location-images/27.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369918/197/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 213,
+    "imageCoordinates": [
+      51.43142,
+      5.490706
+    ],
+    "imageCapturedAt": "2019-04-06 13:52:01.000"
   },
   {
     "id": 28,
@@ -221,7 +572,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.43244,
-    "lng": 5.47017
+    "lng": 5.47017,
+    "image": "/location-images/28.jpg",
+    "images": [
+      "/location-images/28.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/504/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 13,
+    "imageCoordinates": [
+      51.432352,
+      5.470287
+    ],
+    "imageCapturedAt": "2019-03-23 16:30:20.000"
   },
   {
     "id": 29,
@@ -229,7 +593,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.43113,
-    "lng": 5.48517
+    "lng": 5.48517,
+    "image": "/location-images/29.jpg",
+    "images": [
+      "/location-images/29.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1287051/2/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 31,
+    "imageCoordinates": [
+      51.431077,
+      5.484731
+    ],
+    "imageCapturedAt": "2018-09-06 05:47:47.000"
   },
   {
     "id": 30,
@@ -237,7 +614,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.43365,
-    "lng": 5.48833
+    "lng": 5.48833,
+    "image": "/location-images/30.jpg",
+    "images": [
+      "/location-images/30.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369918/200/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 292,
+    "imageCoordinates": [
+      51.431279,
+      5.490144
+    ],
+    "imageCapturedAt": "2019-04-06 13:52:04.000"
   },
   {
     "id": 31,
@@ -245,7 +635,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.4344,
-    "lng": 5.48432
+    "lng": 5.48432,
+    "image": "/location-images/31.jpg",
+    "images": [
+      "/location-images/31.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/12089/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 226,
+    "imageCoordinates": [
+      51.433952,
+      5.481144
+    ],
+    "imageCapturedAt": "2024-07-23 10:47:02.000"
   },
   {
     "id": 32,
@@ -253,7 +656,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.44117,
-    "lng": 5.479
+    "lng": 5.479,
+    "image": "/location-images/32.jpg",
+    "images": [
+      "/location-images/32.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/379/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 37,
+    "imageCoordinates": [
+      51.441503,
+      5.478965
+    ],
+    "imageCapturedAt": "2019-03-13 15:33:34.000"
   },
   {
     "id": 33,
@@ -261,7 +677,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.44887,
-    "lng": 5.47432
+    "lng": 5.47432,
+    "image": "/location-images/33.jpg",
+    "images": [
+      "/location-images/33.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11679/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 14,
+    "imageCoordinates": [
+      51.448969,
+      5.474456
+    ],
+    "imageCapturedAt": "2024-07-23 10:40:05.000"
   },
   {
     "id": 34,
@@ -269,7 +698,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.45046,
-    "lng": 5.47245
+    "lng": 5.47245,
+    "image": "/location-images/34.jpg",
+    "images": [
+      "/location-images/34.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11644/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 22,
+    "imageCoordinates": [
+      51.450524,
+      5.472745
+    ],
+    "imageCapturedAt": "2024-07-23 10:39:30.000"
   },
   {
     "id": 35,
@@ -277,7 +719,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.45082,
-    "lng": 5.47185
+    "lng": 5.47185,
+    "image": "/location-images/35.jpg",
+    "images": [
+      "/location-images/35.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11636/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 46,
+    "imageCoordinates": [
+      51.450967,
+      5.472463
+    ],
+    "imageCapturedAt": "2024-07-23 10:39:22.000"
   },
   {
     "id": 36,
@@ -285,7 +740,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.45099,
-    "lng": 5.47154
+    "lng": 5.47154,
+    "image": "/location-images/36.jpg",
+    "images": [
+      "/location-images/36.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1371006/273/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 32,
+    "imageCoordinates": [
+      51.451274,
+      5.471483
+    ],
+    "imageCapturedAt": "2019-03-13 08:45:51.000"
   },
   {
     "id": 37,
@@ -293,7 +761,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.45069,
-    "lng": 5.47282
+    "lng": 5.47282,
+    "image": "/location-images/37.jpg",
+    "images": [
+      "/location-images/37.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11642/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 11,
+    "imageCoordinates": [
+      51.450635,
+      5.472682
+    ],
+    "imageCapturedAt": "2024-07-23 10:39:28.000"
   },
   {
     "id": 38,
@@ -301,7 +782,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.45145,
-    "lng": 5.47233
+    "lng": 5.47233,
+    "image": "/location-images/38.jpg",
+    "images": [
+      "/location-images/38.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11628/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 10,
+    "imageCoordinates": [
+      51.451405,
+      5.47221
+    ],
+    "imageCapturedAt": "2024-07-23 10:39:14.000"
   },
   {
     "id": 39,
@@ -309,7 +803,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.44037,
-    "lng": 5.4725
+    "lng": 5.4725,
+    "image": "/location-images/39.jpg",
+    "images": [
+      "/location-images/39.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370978/0/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 125,
+    "imageCoordinates": [
+      51.441314,
+      5.473486
+    ],
+    "imageCapturedAt": "2019-03-13 15:43:42.000"
   },
   {
     "id": 40,
@@ -317,7 +824,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.44805,
-    "lng": 5.47539
+    "lng": 5.47539,
+    "image": "/location-images/40.jpg",
+    "images": [
+      "/location-images/40.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11700/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 8,
+    "imageCoordinates": [
+      51.448039,
+      5.475278
+    ],
+    "imageCapturedAt": "2024-07-23 10:40:26.000"
   },
   {
     "id": 41,
@@ -325,7 +845,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.44253,
-    "lng": 5.50236
+    "lng": 5.50236,
+    "image": "/location-images/41.jpg",
+    "images": [
+      "/location-images/41.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369922/927/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 88,
+    "imageCoordinates": [
+      51.442655,
+      5.50361
+    ],
+    "imageCapturedAt": "2019-04-06 13:33:26.000"
   },
   {
     "id": 42,
@@ -333,7 +866,20 @@
     "categoryid": 2,
     "type": "Supermarkt",
     "lat": 51.44126,
-    "lng": 5.50271
+    "lng": 5.50271,
+    "image": "/location-images/42.jpg",
+    "images": [
+      "/location-images/42.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369922/943/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 94,
+    "imageCoordinates": [
+      51.441357,
+      5.504057
+    ],
+    "imageCapturedAt": "2019-04-06 13:34:52.000"
   },
   {
     "id": 43,
@@ -341,7 +887,20 @@
     "categoryid": 7,
     "type": "Politie",
     "lat": 51.43633,
-    "lng": 5.48038
+    "lng": 5.48038,
+    "image": "/location-images/43.jpg",
+    "images": [
+      "/location-images/43.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/12035/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 118,
+    "imageCoordinates": [
+      51.43569,
+      5.479024
+    ],
+    "imageCapturedAt": "2024-07-23 10:46:08.000"
   },
   {
     "id": 44,
@@ -349,7 +908,20 @@
     "categoryid": 7,
     "type": "Politie",
     "lat": 51.44134,
-    "lng": 5.47271
+    "lng": 5.47271,
+    "image": "/location-images/44.jpg",
+    "images": [
+      "/location-images/44.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370978/3/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 51,
+    "imageCoordinates": [
+      51.441387,
+      5.473447
+    ],
+    "imageCapturedAt": "2019-03-13 15:43:45.000"
   },
   {
     "id": 45,
@@ -357,7 +929,20 @@
     "categoryid": 7,
     "type": "Brandweer",
     "lat": 51.43428,
-    "lng": 5.47411
+    "lng": 5.47411,
+    "image": "/location-images/45.jpg",
+    "images": [
+      "/location-images/45.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1285899/55/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 36,
+    "imageCoordinates": [
+      51.434102,
+      5.473669
+    ],
+    "imageCapturedAt": "2018-09-01 17:42:09.000"
   },
   {
     "id": 46,
@@ -365,7 +950,20 @@
     "categoryid": 7,
     "type": "Brandweer",
     "lat": 51.44776,
-    "lng": 5.49674
+    "lng": 5.49674,
+    "image": "/location-images/46.jpg",
+    "images": [
+      "/location-images/46.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/197/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 144,
+    "imageCoordinates": [
+      51.44653,
+      5.49737
+    ],
+    "imageCapturedAt": "2019-03-23 16:21:41.000"
   },
   {
     "id": 47,
@@ -373,7 +971,20 @@
     "categoryid": 5,
     "type": "Gemeentehuis",
     "lat": 51.43515,
-    "lng": 5.48047
+    "lng": 5.48047,
+    "image": "/location-images/47.jpg",
+    "images": [
+      "/location-images/47.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/12057/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 47,
+    "imageCoordinates": [
+      51.434934,
+      5.479893
+    ],
+    "imageCapturedAt": "2024-07-23 10:46:30.000"
   },
   {
     "id": 48,
@@ -381,7 +992,20 @@
     "categoryid": 5,
     "type": "Gemeentehuis",
     "lat": 51.43489,
-    "lng": 5.47958
+    "lng": 5.47958,
+    "image": "/location-images/48.jpg",
+    "images": [
+      "/location-images/48.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/12055/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 20,
+    "imageCoordinates": [
+      51.434989,
+      5.479829
+    ],
+    "imageCapturedAt": "2024-07-23 10:46:28.000"
   },
   {
     "id": 49,
@@ -389,7 +1013,20 @@
     "categoryid": 5,
     "type": "Bibliotheek",
     "lat": 51.43901,
-    "lng": 5.47445
+    "lng": 5.47445,
+    "image": "/location-images/49.jpg",
+    "images": [
+      "/location-images/49.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11906/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 33,
+    "imageCoordinates": [
+      51.438994,
+      5.474924
+    ],
+    "imageCapturedAt": "2024-07-23 10:43:59.000"
   },
   {
     "id": 50,
@@ -397,7 +1034,20 @@
     "categoryid": 5,
     "type": "Bibliotheek",
     "lat": 51.43944,
-    "lng": 5.47475
+    "lng": 5.47475,
+    "image": "/location-images/50.jpg",
+    "images": [
+      "/location-images/50.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11896/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 25,
+    "imageCoordinates": [
+      51.439362,
+      5.475089
+    ],
+    "imageCapturedAt": "2024-07-23 10:43:49.000"
   },
   {
     "id": 51,
@@ -405,7 +1055,20 @@
     "categoryid": 5,
     "type": "Bibliotheek",
     "lat": 51.44781,
-    "lng": 5.4875
+    "lng": 5.4875,
+    "image": "/location-images/51.jpg",
+    "images": [
+      "/location-images/51.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/232/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 250,
+    "imageCoordinates": [
+      51.445589,
+      5.488043
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:16.000"
   },
   {
     "id": 52,
@@ -413,7 +1076,20 @@
     "categoryid": 5,
     "type": "Bibliotheek",
     "lat": 51.43021,
-    "lng": 5.4895
+    "lng": 5.4895,
+    "image": "/location-images/52.jpg",
+    "images": [
+      "/location-images/52.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369994/130/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 50,
+    "imageCoordinates": [
+      51.43058,
+      5.489085
+    ],
+    "imageCapturedAt": "2019-04-01 16:16:15.000"
   },
   {
     "id": 53,
@@ -421,7 +1097,20 @@
     "categoryid": 5,
     "type": "Overheidskantoor",
     "lat": 51.4459,
-    "lng": 5.48181
+    "lng": 5.48181,
+    "image": "/location-images/53.jpg",
+    "images": [
+      "/location-images/53.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/260/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 78,
+    "imageCoordinates": [
+      51.445201,
+      5.481895
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:44.000"
   },
   {
     "id": 54,
@@ -429,7 +1118,20 @@
     "categoryid": 5,
     "type": "Overheidskantoor",
     "lat": 51.4441,
-    "lng": 5.4795
+    "lng": 5.4795,
+    "image": "/location-images/54.jpg",
+    "images": [
+      "/location-images/54.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369906/158/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 85,
+    "imageCoordinates": [
+      51.444831,
+      5.47916
+    ],
+    "imageCapturedAt": "2019-04-06 18:38:01.000"
   },
   {
     "id": 55,
@@ -437,7 +1139,20 @@
     "categoryid": 5,
     "type": "Overheidskantoor",
     "lat": 51.44474,
-    "lng": 5.47324
+    "lng": 5.47324,
+    "image": "/location-images/55.jpg",
+    "images": [
+      "/location-images/55.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1285899/115/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 65,
+    "imageCoordinates": [
+      51.444437,
+      5.472432
+    ],
+    "imageCapturedAt": "2018-09-01 17:45:35.000"
   },
   {
     "id": 56,
@@ -445,7 +1160,20 @@
     "categoryid": 5,
     "type": "Overheidskantoor",
     "lat": 51.44483,
-    "lng": 5.47208
+    "lng": 5.47208,
+    "image": "/location-images/56.jpg",
+    "images": [
+      "/location-images/56.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1285899/117/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 4,
+    "imageCoordinates": [
+      51.444807,
+      5.472039
+    ],
+    "imageCapturedAt": "2018-09-01 17:45:39.000"
   },
   {
     "id": 57,
@@ -453,7 +1181,20 @@
     "categoryid": 5,
     "type": "Overheidskantoor",
     "lat": 51.43558,
-    "lng": 5.47897
+    "lng": 5.47897,
+    "image": "/location-images/57.jpg",
+    "images": [
+      "/location-images/57.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/12036/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 10,
+    "imageCoordinates": [
+      51.435647,
+      5.479068
+    ],
+    "imageCapturedAt": "2024-07-23 10:46:09.000"
   },
   {
     "id": 58,
@@ -461,7 +1202,20 @@
     "categoryid": 5,
     "type": "Overheidskantoor",
     "lat": 51.4409,
-    "lng": 5.48172
+    "lng": 5.48172,
+    "image": "/location-images/58.jpg",
+    "images": [
+      "/location-images/58.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/408/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 100,
+    "imageCoordinates": [
+      51.441778,
+      5.48142
+    ],
+    "imageCapturedAt": "2019-03-13 15:34:06.000"
   },
   {
     "id": 59,
@@ -469,7 +1223,20 @@
     "categoryid": 5,
     "type": "Overheidskantoor",
     "lat": 51.44078,
-    "lng": 5.48172
+    "lng": 5.48172,
+    "image": "/location-images/59.jpg",
+    "images": [
+      "/location-images/59.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/408/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 113,
+    "imageCoordinates": [
+      51.441778,
+      5.48142
+    ],
+    "imageCapturedAt": "2019-03-13 15:34:06.000"
   },
   {
     "id": 60,
@@ -477,7 +1244,20 @@
     "categoryid": 5,
     "type": "Overheidskantoor",
     "lat": 51.43543,
-    "lng": 5.48613
+    "lng": 5.48613,
+    "image": "/location-images/60.jpg",
+    "images": [
+      "/location-images/60.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1488/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 205,
+    "imageCoordinates": [
+      51.437224,
+      5.486791
+    ],
+    "imageCapturedAt": "2024-07-22 06:57:58.000"
   },
   {
     "id": 61,
@@ -485,7 +1265,20 @@
     "categoryid": 5,
     "type": "Buurthuis",
     "lat": 51.4346,
-    "lng": 5.4941
+    "lng": 5.4941,
+    "image": "/location-images/61.jpg",
+    "images": [
+      "/location-images/61.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369918/182/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 275,
+    "imageCoordinates": [
+      51.432166,
+      5.493363
+    ],
+    "imageCapturedAt": "2019-04-06 13:51:46.000"
   },
   {
     "id": 62,
@@ -493,7 +1286,20 @@
     "categoryid": 5,
     "type": "Buurthuis",
     "lat": 51.43428,
-    "lng": 5.48938
+    "lng": 5.48938,
+    "image": "/location-images/62.jpg",
+    "images": [
+      "/location-images/62.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1532/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 271,
+    "imageCoordinates": [
+      51.43664,
+      5.490329
+    ],
+    "imageCapturedAt": "2024-07-22 06:58:42.000"
   },
   {
     "id": 63,
@@ -501,7 +1307,20 @@
     "categoryid": 5,
     "type": "Buurthuis",
     "lat": 51.44447,
-    "lng": 5.50109
+    "lng": 5.50109,
+    "image": "/location-images/63.jpg",
+    "images": [
+      "/location-images/63.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369922/906/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 93,
+    "imageCoordinates": [
+      51.444795,
+      5.502333
+    ],
+    "imageCapturedAt": "2019-04-06 13:33:05.000"
   },
   {
     "id": 64,
@@ -509,7 +1328,20 @@
     "categoryid": 5,
     "type": "Buurthuis",
     "lat": 51.44146,
-    "lng": 5.48234
+    "lng": 5.48234,
+    "image": "/location-images/64.jpg",
+    "images": [
+      "/location-images/64.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/413/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 50,
+    "imageCoordinates": [
+      51.441889,
+      5.482144
+    ],
+    "imageCapturedAt": "2019-03-13 15:34:11.000"
   },
   {
     "id": 65,
@@ -517,7 +1349,20 @@
     "categoryid": 5,
     "type": "Buurthuis",
     "lat": 51.43782,
-    "lng": 5.48093
+    "lng": 5.48093,
+    "image": "/location-images/65.jpg",
+    "images": [
+      "/location-images/65.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1389/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 30,
+    "imageCoordinates": [
+      51.437757,
+      5.480511
+    ],
+    "imageCapturedAt": "2024-07-22 06:56:19.000"
   },
   {
     "id": 66,
@@ -525,7 +1370,20 @@
     "categoryid": 5,
     "type": "Buurthuis",
     "lat": 51.43969,
-    "lng": 5.48058
+    "lng": 5.48058,
+    "image": "/location-images/66.jpg",
+    "images": [
+      "/location-images/66.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/391/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 214,
+    "imageCoordinates": [
+      51.441557,
+      5.479848
+    ],
+    "imageCapturedAt": "2019-03-13 15:33:46.000"
   },
   {
     "id": 67,
@@ -533,7 +1391,20 @@
     "categoryid": 5,
     "type": "Buurthuis",
     "lat": 51.43714,
-    "lng": 5.47756
+    "lng": 5.47756,
+    "image": "/location-images/67.jpg",
+    "images": [
+      "/location-images/67.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1294/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 22,
+    "imageCoordinates": [
+      51.437012,
+      5.477309
+    ],
+    "imageCapturedAt": "2024-07-22 06:54:44.000"
   },
   {
     "id": 68,
@@ -541,7 +1412,20 @@
     "categoryid": 5,
     "type": "Buurthuis",
     "lat": 51.434,
-    "lng": 5.4857
+    "lng": 5.4857,
+    "image": "/location-images/68.jpg",
+    "images": [
+      "/location-images/68.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/12092/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 310,
+    "imageCoordinates": [
+      51.433865,
+      5.481237
+    ],
+    "imageCapturedAt": "2024-07-23 10:47:05.000"
   },
   {
     "id": 69,
@@ -549,7 +1433,20 @@
     "categoryid": 4,
     "type": "Energievoorziening",
     "lat": 51.4478,
-    "lng": 5.49
+    "lng": 5.49,
+    "image": "/location-images/69.jpg",
+    "images": [
+      "/location-images/69.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/223/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 231,
+    "imageCoordinates": [
+      51.445743,
+      5.490439
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:07.000"
   },
   {
     "id": 70,
@@ -557,7 +1454,20 @@
     "categoryid": 4,
     "type": "Energievoorziening",
     "lat": 51.44842,
-    "lng": 5.45564
+    "lng": 5.45564,
+    "image": "/location-images/70.jpg",
+    "images": [
+      "/location-images/70.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1371006/126/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 80,
+    "imageCoordinates": [
+      51.449033,
+      5.455042
+    ],
+    "imageCapturedAt": "2019-03-13 08:42:27.000"
   },
   {
     "id": 71,
@@ -565,7 +1475,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.44788,
-    "lng": 5.48612
+    "lng": 5.48612,
+    "image": "/location-images/71.jpg",
+    "images": [
+      "/location-images/71.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/238/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 268,
+    "imageCoordinates": [
+      51.445479,
+      5.486516
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:22.000"
   },
   {
     "id": 72,
@@ -573,7 +1496,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.43515,
-    "lng": 5.48047
+    "lng": 5.48047,
+    "image": "/location-images/72.jpg",
+    "images": [
+      "/location-images/72.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/12057/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 47,
+    "imageCoordinates": [
+      51.434934,
+      5.479893
+    ],
+    "imageCapturedAt": "2024-07-23 10:46:30.000"
   },
   {
     "id": 73,
@@ -581,7 +1517,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.46126,
-    "lng": 5.40287
+    "lng": 5.40287,
+    "image": "/location-images/73.jpg",
+    "images": [
+      "/location-images/73.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1287049/724/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 226,
+    "imageCoordinates": [
+      51.460545,
+      5.405923
+    ],
+    "imageCapturedAt": "2018-09-06 06:42:26.000"
   },
   {
     "id": 74,
@@ -589,7 +1538,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.44842,
-    "lng": 5.45564
+    "lng": 5.45564,
+    "image": "/location-images/74.jpg",
+    "images": [
+      "/location-images/74.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1371006/126/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 80,
+    "imageCoordinates": [
+      51.449033,
+      5.455042
+    ],
+    "imageCapturedAt": "2019-03-13 08:42:27.000"
   },
   {
     "id": 75,
@@ -597,7 +1559,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.44747,
-    "lng": 5.46018
+    "lng": 5.46018,
+    "image": "/location-images/75.jpg",
+    "images": [
+      "/location-images/75.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1371006/144/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 316,
+    "imageCoordinates": [
+      51.450121,
+      5.458532
+    ],
+    "imageCapturedAt": "2019-03-13 08:42:45.000"
   },
   {
     "id": 76,
@@ -605,7 +1580,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.44762,
-    "lng": 5.45528
+    "lng": 5.45528,
+    "image": "/location-images/76.jpg",
+    "images": [
+      "/location-images/76.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1371006/123/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 146,
+    "imageCoordinates": [
+      51.448794,
+      5.454323
+    ],
+    "imageCapturedAt": "2019-03-13 08:42:24.000"
   },
   {
     "id": 77,
@@ -613,7 +1601,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.44707,
-    "lng": 5.45695
+    "lng": 5.45695,
+    "image": "/location-images/77.jpg",
+    "images": [
+      "/location-images/77.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1371006/127/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 255,
+    "imageCoordinates": [
+      51.449113,
+      5.455278
+    ],
+    "imageCapturedAt": "2019-03-13 08:42:28.000"
   },
   {
     "id": 78,
@@ -621,7 +1622,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": null,
-    "lng": null
+    "lng": null,
+    "image": "/location-images/78.jpg",
+    "images": [
+      "/location-images/78.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1371006/115/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 126,
+    "imageCoordinates": [
+      51.448195,
+      5.452545
+    ],
+    "imageCapturedAt": "2019-03-13 08:42:16.000"
   },
   {
     "id": 79,
@@ -629,7 +1643,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": null,
-    "lng": null
+    "lng": null,
+    "image": "/location-images/79.jpg",
+    "images": [
+      "/location-images/79.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1371006/115/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 126,
+    "imageCoordinates": [
+      51.448195,
+      5.452545
+    ],
+    "imageCapturedAt": "2019-03-13 08:42:16.000"
   },
   {
     "id": 80,
@@ -637,7 +1664,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": null,
-    "lng": null
+    "lng": null,
+    "image": "/location-images/80.jpg",
+    "images": [
+      "/location-images/80.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1371006/115/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 126,
+    "imageCoordinates": [
+      51.448195,
+      5.452545
+    ],
+    "imageCapturedAt": "2019-03-13 08:42:16.000"
   },
   {
     "id": 81,
@@ -645,7 +1685,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": null,
-    "lng": null
+    "lng": null,
+    "image": "/location-images/81.jpg",
+    "images": [
+      "/location-images/81.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1371006/115/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 126,
+    "imageCoordinates": [
+      51.448195,
+      5.452545
+    ],
+    "imageCapturedAt": "2019-03-13 08:42:16.000"
   },
   {
     "id": 82,
@@ -653,7 +1706,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": null,
-    "lng": null
+    "lng": null,
+    "image": "/location-images/82.jpg",
+    "images": [
+      "/location-images/82.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/211/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 199,
+    "imageCoordinates": [
+      51.446023,
+      5.493672
+    ],
+    "imageCapturedAt": "2019-03-23 16:21:55.000"
   },
   {
     "id": 83,
@@ -661,7 +1727,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": null,
-    "lng": null
+    "lng": null,
+    "image": "/location-images/83.jpg",
+    "images": [
+      "/location-images/83.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/4454841/21/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 164,
+    "imageCoordinates": [
+      51.452853,
+      5.487524
+    ],
+    "imageCapturedAt": "2022-01-30 14:24:32.000"
   },
   {
     "id": 84,
@@ -669,7 +1748,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.44755,
-    "lng": 5.48755
+    "lng": 5.48755,
+    "image": "/location-images/84.jpg",
+    "images": [
+      "/location-images/84.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/232/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 221,
+    "imageCoordinates": [
+      51.445589,
+      5.488043
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:16.000"
   },
   {
     "id": 85,
@@ -677,7 +1769,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.4478,
-    "lng": 5.49
+    "lng": 5.49,
+    "image": "/location-images/85.jpg",
+    "images": [
+      "/location-images/85.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/223/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 231,
+    "imageCoordinates": [
+      51.445743,
+      5.490439
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:07.000"
   },
   {
     "id": 86,
@@ -685,7 +1790,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.44709,
-    "lng": 5.48875
+    "lng": 5.48875,
+    "image": "/location-images/86.jpg",
+    "images": [
+      "/location-images/86.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/228/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 162,
+    "imageCoordinates": [
+      51.44565,
+      5.489072
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:12.000"
   },
   {
     "id": 87,
@@ -693,7 +1811,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.44623,
-    "lng": 5.48505
+    "lng": 5.48505,
+    "image": "/location-images/87.jpg",
+    "images": [
+      "/location-images/87.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/243/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 97,
+    "imageCoordinates": [
+      51.445363,
+      5.485197
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:27.000"
   },
   {
     "id": 88,
@@ -701,7 +1832,20 @@
     "categoryid": 6,
     "type": "Opvangkandidaat",
     "lat": 51.4102,
-    "lng": 5.455
+    "lng": 5.455,
+    "image": "/location-images/88.jpg",
+    "images": [
+      "/location-images/88.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1303775/202/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 109,
+    "imageCoordinates": [
+      51.410825,
+      5.453792
+    ],
+    "imageCapturedAt": "2018-11-02 07:24:56.000"
   },
   {
     "id": 89,
@@ -709,7 +1853,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44488,
-    "lng": 5.48411
+    "lng": 5.48411,
+    "image": "/location-images/89.jpg",
+    "images": [
+      "/location-images/89.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/247/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 44,
+    "imageCoordinates": [
+      51.445273,
+      5.484153
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:31.000"
   },
   {
     "id": 90,
@@ -717,7 +1874,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44836,
-    "lng": 5.48507
+    "lng": 5.48507,
+    "image": "/location-images/90.jpg",
+    "images": [
+      "/location-images/90.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369906/97/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 235,
+    "imageCoordinates": [
+      51.449287,
+      5.482028
+    ],
+    "imageCapturedAt": "2019-04-06 18:36:48.000"
   },
   {
     "id": 91,
@@ -725,7 +1895,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44989,
-    "lng": 5.49452
+    "lng": 5.49452,
+    "image": "/location-images/91.jpg",
+    "images": [
+      "/location-images/91.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/4454857/244/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 204,
+    "imageCoordinates": [
+      51.451274,
+      5.496458
+    ],
+    "imageCapturedAt": "2022-01-30 14:23:41.000"
   },
   {
     "id": 92,
@@ -733,7 +1916,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44816,
-    "lng": 5.48895
+    "lng": 5.48895,
+    "image": "/location-images/92.jpg",
+    "images": [
+      "/location-images/92.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/227/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 279,
+    "imageCoordinates": [
+      51.445666,
+      5.48934
+    ],
+    "imageCapturedAt": "2019-03-23 16:22:11.000"
   },
   {
     "id": 93,
@@ -741,7 +1937,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43326,
-    "lng": 5.47109
+    "lng": 5.47109,
+    "image": "/location-images/93.jpg",
+    "images": [
+      "/location-images/93.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/493/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 8,
+    "imageCoordinates": [
+      51.433214,
+      5.471187
+    ],
+    "imageCapturedAt": "2019-03-23 16:30:09.000"
   },
   {
     "id": 94,
@@ -749,7 +1958,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43424,
-    "lng": 5.49079
+    "lng": 5.49079,
+    "image": "/location-images/94.jpg",
+    "images": [
+      "/location-images/94.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1538/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 274,
+    "imageCoordinates": [
+      51.436696,
+      5.490475
+    ],
+    "imageCapturedAt": "2024-07-22 06:58:48.000"
   },
   {
     "id": 95,
@@ -757,7 +1979,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43297,
-    "lng": 5.49448
+    "lng": 5.49448,
+    "image": "/location-images/95.jpg",
+    "images": [
+      "/location-images/95.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369918/175/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 113,
+    "imageCoordinates": [
+      51.432045,
+      5.493799
+    ],
+    "imageCapturedAt": "2019-04-06 13:51:03.000"
   },
   {
     "id": 96,
@@ -765,7 +2000,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44903,
-    "lng": 5.48107
+    "lng": 5.48107,
+    "image": "/location-images/96.jpg",
+    "images": [
+      "/location-images/96.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/260/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 44,
+    "imageCoordinates": [
+      51.448826,
+      5.481606
+    ],
+    "imageCapturedAt": "2019-03-13 15:29:56.000"
   },
   {
     "id": 97,
@@ -773,7 +2021,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.42944,
-    "lng": 5.49409
+    "lng": 5.49409,
+    "image": "/location-images/97.jpg",
+    "images": [
+      "/location-images/97.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369918/141/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 106,
+    "imageCoordinates": [
+      51.429907,
+      5.495421
+    ],
+    "imageCapturedAt": "2019-04-06 13:49:52.000"
   },
   {
     "id": 98,
@@ -781,7 +2042,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44716,
-    "lng": 5.47301
+    "lng": 5.47301,
+    "image": "/location-images/98.jpg",
+    "images": [
+      "/location-images/98.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11709/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 172,
+    "imageCoordinates": [
+      51.4475,
+      5.475426
+    ],
+    "imageCapturedAt": "2024-07-23 10:40:35.000"
   },
   {
     "id": 99,
@@ -789,7 +2063,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.4304,
-    "lng": 5.47048
+    "lng": 5.47048,
+    "image": "/location-images/99.jpg",
+    "images": [
+      "/location-images/99.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/519/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 138,
+    "imageCoordinates": [
+      51.431152,
+      5.468892
+    ],
+    "imageCapturedAt": "2019-03-23 16:30:35.000"
   },
   {
     "id": 100,
@@ -797,7 +2084,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43158,
-    "lng": 5.46985
+    "lng": 5.46985,
+    "image": "/location-images/100.jpg",
+    "images": [
+      "/location-images/100.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/512/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 26,
+    "imageCoordinates": [
+      51.431743,
+      5.46959
+    ],
+    "imageCapturedAt": "2019-03-23 16:30:28.000"
   },
   {
     "id": 101,
@@ -805,7 +2105,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43106,
-    "lng": 5.47214
+    "lng": 5.47214,
+    "image": "/location-images/101.jpg",
+    "images": [
+      "/location-images/101.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/508/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 188,
+    "imageCoordinates": [
+      51.432072,
+      5.469965
+    ],
+    "imageCapturedAt": "2019-03-23 16:30:24.000"
   },
   {
     "id": 102,
@@ -813,7 +2126,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.42952,
-    "lng": 5.47541
+    "lng": 5.47541,
+    "image": "/location-images/102.jpg",
+    "images": [
+      "/location-images/102.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1285899/33/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 190,
+    "imageCoordinates": [
+      51.429692,
+      5.478139
+    ],
+    "imageCapturedAt": "2018-09-01 17:41:25.000"
   },
   {
     "id": 103,
@@ -821,7 +2147,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43024,
-    "lng": 5.47533
+    "lng": 5.47533,
+    "image": "/location-images/103.jpg",
+    "images": [
+      "/location-images/103.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1285899/40/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 193,
+    "imageCoordinates": [
+      51.431335,
+      5.477489
+    ],
+    "imageCapturedAt": "2018-09-01 17:41:39.000"
   },
   {
     "id": 104,
@@ -829,7 +2168,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43233,
-    "lng": 5.47386
+    "lng": 5.47386,
+    "image": "/location-images/104.jpg",
+    "images": [
+      "/location-images/104.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1285899/49/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 131,
+    "imageCoordinates": [
+      51.433127,
+      5.475261
+    ],
+    "imageCapturedAt": "2018-09-01 17:41:57.000"
   },
   {
     "id": 105,
@@ -837,7 +2189,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43553,
-    "lng": 5.47238
+    "lng": 5.47238,
+    "image": "/location-images/105.jpg",
+    "images": [
+      "/location-images/105.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370474/90/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 61,
+    "imageCoordinates": [
+      51.435114,
+      5.47181
+    ],
+    "imageCapturedAt": "2019-04-01 15:54:29.000"
   },
   {
     "id": 106,
@@ -845,7 +2210,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43768,
-    "lng": 5.4707
+    "lng": 5.4707,
+    "image": "/location-images/106.jpg",
+    "images": [
+      "/location-images/106.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1214/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 91,
+    "imageCoordinates": [
+      51.438487,
+      5.470911
+    ],
+    "imageCapturedAt": "2024-07-22 06:53:24.000"
   },
   {
     "id": 107,
@@ -853,7 +2231,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43781,
-    "lng": 5.47084
+    "lng": 5.47084,
+    "image": "/location-images/107.jpg",
+    "images": [
+      "/location-images/107.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1215/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 76,
+    "imageCoordinates": [
+      51.438489,
+      5.470975
+    ],
+    "imageCapturedAt": "2024-07-22 06:53:25.000"
   },
   {
     "id": 108,
@@ -861,7 +2252,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43699,
-    "lng": 5.46877
+    "lng": 5.46877,
+    "image": "/location-images/108.jpg",
+    "images": [
+      "/location-images/108.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/418/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 16,
+    "imageCoordinates": [
+      51.437118,
+      5.468866
+    ],
+    "imageCapturedAt": "2019-03-23 16:28:04.000"
   },
   {
     "id": 109,
@@ -869,7 +2273,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.4457,
-    "lng": 5.47468
+    "lng": 5.47468,
+    "image": "/location-images/109.jpg",
+    "images": [
+      "/location-images/109.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11739/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 29,
+    "imageCoordinates": [
+      51.445719,
+      5.475097
+    ],
+    "imageCapturedAt": "2024-07-23 10:41:05.000"
   },
   {
     "id": 110,
@@ -877,7 +2294,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44779,
-    "lng": 5.47638
+    "lng": 5.47638,
+    "image": "/location-images/110.jpg",
+    "images": [
+      "/location-images/110.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11710/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 77,
+    "imageCoordinates": [
+      51.447435,
+      5.475425
+    ],
+    "imageCapturedAt": "2024-07-23 10:40:36.000"
   },
   {
     "id": 111,
@@ -885,7 +2315,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44048,
-    "lng": 5.48329
+    "lng": 5.48329,
+    "image": "/location-images/111.jpg",
+    "images": [
+      "/location-images/111.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/418/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 170,
+    "imageCoordinates": [
+      51.441972,
+      5.482781
+    ],
+    "imageCapturedAt": "2019-03-13 15:34:16.000"
   },
   {
     "id": 112,
@@ -893,7 +2336,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.42963,
-    "lng": 5.491
+    "lng": 5.491,
+    "image": "/location-images/112.jpg",
+    "images": [
+      "/location-images/112.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1287051/30/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 165,
+    "imageCoordinates": [
+      51.430672,
+      5.489312
+    ],
+    "imageCapturedAt": "2018-09-06 05:49:59.000"
   },
   {
     "id": 113,
@@ -901,7 +2357,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44141,
-    "lng": 5.50037
+    "lng": 5.50037,
+    "image": "/location-images/113.jpg",
+    "images": [
+      "/location-images/113.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369922/938/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 249,
+    "imageCoordinates": [
+      51.441907,
+      5.503867
+    ],
+    "imageCapturedAt": "2019-04-06 13:34:47.000"
   },
   {
     "id": 114,
@@ -909,7 +2378,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44022,
-    "lng": 5.48974
+    "lng": 5.48974,
+    "image": "/location-images/114.jpg",
+    "images": [
+      "/location-images/114.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1579/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 306,
+    "imageCoordinates": [
+      51.438128,
+      5.4926
+    ],
+    "imageCapturedAt": "2024-07-22 06:59:29.000"
   },
   {
     "id": 115,
@@ -917,7 +2399,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44145,
-    "lng": 5.49707
+    "lng": 5.49707,
+    "image": "/location-images/115.jpg",
+    "images": [
+      "/location-images/115.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1618/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 231,
+    "imageCoordinates": [
+      51.43963,
+      5.495457
+    ],
+    "imageCapturedAt": "2024-07-22 07:00:08.000"
   },
   {
     "id": 116,
@@ -925,7 +2420,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44394,
-    "lng": 5.4979
+    "lng": 5.4979,
+    "image": "/location-images/116.jpg",
+    "images": [
+      "/location-images/116.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370942/199/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 287,
+    "imageCoordinates": [
+      51.446442,
+      5.496857
+    ],
+    "imageCapturedAt": "2019-03-23 16:21:43.000"
   },
   {
     "id": 117,
@@ -933,7 +2441,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44042,
-    "lng": 5.49833
+    "lng": 5.49833,
+    "image": "/location-images/117.jpg",
+    "images": [
+      "/location-images/117.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1655/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 170,
+    "imageCoordinates": [
+      51.438915,
+      5.497917
+    ],
+    "imageCapturedAt": "2024-07-22 07:01:04.000"
   },
   {
     "id": 118,
@@ -941,7 +2462,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43899,
-    "lng": 5.49833
+    "lng": 5.49833,
+    "image": "/location-images/118.jpg",
+    "images": [
+      "/location-images/118.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1659/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 19,
+    "imageCoordinates": [
+      51.438829,
+      5.498225
+    ],
+    "imageCapturedAt": "2024-07-22 07:01:08.000"
   },
   {
     "id": 119,
@@ -949,7 +2483,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43731,
-    "lng": 5.49244
+    "lng": 5.49244,
+    "image": "/location-images/119.jpg",
+    "images": [
+      "/location-images/119.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1569/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 61,
+    "imageCoordinates": [
+      51.437733,
+      5.491873
+    ],
+    "imageCapturedAt": "2024-07-22 06:59:19.000"
   },
   {
     "id": 120,
@@ -957,7 +2504,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43732,
-    "lng": 5.49239
+    "lng": 5.49239,
+    "image": "/location-images/120.jpg",
+    "images": [
+      "/location-images/120.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1569/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 58,
+    "imageCoordinates": [
+      51.437733,
+      5.491873
+    ],
+    "imageCapturedAt": "2024-07-22 06:59:19.000"
   },
   {
     "id": 121,
@@ -965,7 +2525,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43982,
-    "lng": 5.49497
+    "lng": 5.49497,
+    "image": "/location-images/121.jpg",
+    "images": [
+      "/location-images/121.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1616/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 38,
+    "imageCoordinates": [
+      51.439564,
+      5.495338
+    ],
+    "imageCapturedAt": "2024-07-22 07:00:06.000"
   },
   {
     "id": 122,
@@ -973,7 +2546,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43902,
-    "lng": 5.49464
+    "lng": 5.49464,
+    "image": "/location-images/122.jpg",
+    "images": [
+      "/location-images/122.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1605/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 15,
+    "imageCoordinates": [
+      51.439131,
+      5.494512
+    ],
+    "imageCapturedAt": "2024-07-22 06:59:55.000"
   },
   {
     "id": 123,
@@ -981,7 +2567,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43414,
-    "lng": 5.48383
+    "lng": 5.48383,
+    "image": "/location-images/123.jpg",
+    "images": [
+      "/location-images/123.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/12092/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 182,
+    "imageCoordinates": [
+      51.433865,
+      5.481237
+    ],
+    "imageCapturedAt": "2024-07-23 10:47:05.000"
   },
   {
     "id": 124,
@@ -989,7 +2588,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43314,
-    "lng": 5.49461
+    "lng": 5.49461,
+    "image": "/location-images/124.jpg",
+    "images": [
+      "/location-images/124.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369918/174/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 134,
+    "imageCoordinates": [
+      51.432021,
+      5.4939
+    ],
+    "imageCapturedAt": "2019-04-06 13:51:02.000"
   },
   {
     "id": 125,
@@ -997,7 +2609,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43126,
-    "lng": 5.48996
+    "lng": 5.48996,
+    "image": "/location-images/125.jpg",
+    "images": [
+      "/location-images/125.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369918/201/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 5,
+    "imageCoordinates": [
+      51.431214,
+      5.48998
+    ],
+    "imageCapturedAt": "2019-04-06 13:52:05.000"
   },
   {
     "id": 126,
@@ -1005,7 +2630,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43611,
-    "lng": 5.49166
+    "lng": 5.49166,
+    "image": "/location-images/126.jpg",
+    "images": [
+      "/location-images/126.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1538/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 105,
+    "imageCoordinates": [
+      51.436696,
+      5.490475
+    ],
+    "imageCapturedAt": "2024-07-22 06:58:48.000"
   },
   {
     "id": 127,
@@ -1013,7 +2651,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.45133,
-    "lng": 5.47572
+    "lng": 5.47572,
+    "image": "/location-images/127.jpg",
+    "images": [
+      "/location-images/127.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11654/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 221,
+    "imageCoordinates": [
+      51.450082,
+      5.473231
+    ],
+    "imageCapturedAt": "2024-07-23 10:39:40.000"
   },
   {
     "id": 128,
@@ -1021,7 +2672,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44721,
-    "lng": 5.47368
+    "lng": 5.47368,
+    "image": "/location-images/128.jpg",
+    "images": [
+      "/location-images/128.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11709/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 125,
+    "imageCoordinates": [
+      51.4475,
+      5.475426
+    ],
+    "imageCapturedAt": "2024-07-23 10:40:35.000"
   },
   {
     "id": 129,
@@ -1029,7 +2693,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43128,
-    "lng": 5.49438
+    "lng": 5.49438,
+    "image": "/location-images/129.jpg",
+    "images": [
+      "/location-images/129.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369918/157/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 21,
+    "imageCoordinates": [
+      51.431289,
+      5.494678
+    ],
+    "imageCapturedAt": "2019-04-06 13:50:08.000"
   },
   {
     "id": 130,
@@ -1037,7 +2714,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44199,
-    "lng": 5.48035
+    "lng": 5.48035,
+    "image": "/location-images/130.jpg",
+    "images": [
+      "/location-images/130.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/397/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 40,
+    "imageCoordinates": [
+      51.441644,
+      5.480498
+    ],
+    "imageCapturedAt": "2019-03-13 15:33:52.000"
   },
   {
     "id": 131,
@@ -1045,7 +2735,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44188,
-    "lng": 5.48039
+    "lng": 5.48039,
+    "image": "/location-images/131.jpg",
+    "images": [
+      "/location-images/131.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370982/397/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 27,
+    "imageCoordinates": [
+      51.441644,
+      5.480498
+    ],
+    "imageCapturedAt": "2019-03-13 15:33:52.000"
   },
   {
     "id": 132,
@@ -1053,7 +2756,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43635,
-    "lng": 5.47678
+    "lng": 5.47678,
+    "image": "/location-images/132.jpg",
+    "images": [
+      "/location-images/132.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11992/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 77,
+    "imageCoordinates": [
+      51.436788,
+      5.477644
+    ],
+    "imageCapturedAt": "2024-07-23 10:45:25.000"
   },
   {
     "id": 133,
@@ -1061,7 +2777,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43509,
-    "lng": 5.47311
+    "lng": 5.47311,
+    "image": "/location-images/133.jpg",
+    "images": [
+      "/location-images/133.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1285899/61/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 60,
+    "imageCoordinates": [
+      51.434706,
+      5.472498
+    ],
+    "imageCapturedAt": "2018-09-01 17:42:47.000"
   },
   {
     "id": 134,
@@ -1069,7 +2798,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43361,
-    "lng": 5.47449
+    "lng": 5.47449,
+    "image": "/location-images/134.jpg",
+    "images": [
+      "/location-images/134.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370474/120/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 4,
+    "imageCoordinates": [
+      51.433634,
+      5.474527
+    ],
+    "imageCapturedAt": "2019-04-01 15:55:14.000"
   },
   {
     "id": 135,
@@ -1077,7 +2819,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43335,
-    "lng": 5.47771
+    "lng": 5.47771,
+    "image": "/location-images/135.jpg",
+    "images": [
+      "/location-images/135.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370474/136/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 144,
+    "imageCoordinates": [
+      51.432519,
+      5.476112
+    ],
+    "imageCapturedAt": "2019-04-01 15:55:30.000"
   },
   {
     "id": 136,
@@ -1085,7 +2840,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43396,
-    "lng": 5.47705
+    "lng": 5.47705,
+    "image": "/location-images/136.jpg",
+    "images": [
+      "/location-images/136.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1370474/127/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 155,
+    "imageCoordinates": [
+      51.433113,
+      5.475281
+    ],
+    "imageCapturedAt": "2019-04-01 15:55:21.000"
   },
   {
     "id": 137,
@@ -1093,7 +2861,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44269,
-    "lng": 5.49877
+    "lng": 5.49877,
+    "image": "/location-images/137.jpg",
+    "images": [
+      "/location-images/137.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369922/918/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 325,
+    "imageCoordinates": [
+      51.443716,
+      5.503162
+    ],
+    "imageCapturedAt": "2019-04-06 13:33:17.000"
   },
   {
     "id": 138,
@@ -1101,7 +2882,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.4381,
-    "lng": 5.49588
+    "lng": 5.49588,
+    "image": "/location-images/138.jpg",
+    "images": [
+      "/location-images/138.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1633/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 112,
+    "imageCoordinates": [
+      51.439095,
+      5.496126
+    ],
+    "imageCapturedAt": "2024-07-22 07:00:42.000"
   },
   {
     "id": 139,
@@ -1109,7 +2903,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44075,
-    "lng": 5.50171
+    "lng": 5.50171,
+    "image": "/location-images/139.jpg",
+    "images": [
+      "/location-images/139.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369922/945/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 173,
+    "imageCoordinates": [
+      51.441054,
+      5.504164
+    ],
+    "imageCapturedAt": "2019-04-06 13:34:54.000"
   },
   {
     "id": 140,
@@ -1117,7 +2924,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44224,
-    "lng": 5.49929
+    "lng": 5.49929,
+    "image": "/location-images/140.jpg",
+    "images": [
+      "/location-images/140.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369922/925/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 303,
+    "imageCoordinates": [
+      51.442871,
+      5.503537
+    ],
+    "imageCapturedAt": "2019-04-06 13:33:24.000"
   },
   {
     "id": 141,
@@ -1125,7 +2945,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44069,
-    "lng": 5.49719
+    "lng": 5.49719,
+    "image": "/location-images/141.jpg",
+    "images": [
+      "/location-images/141.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257385/1618/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 168,
+    "imageCoordinates": [
+      51.43963,
+      5.495457
+    ],
+    "imageCapturedAt": "2024-07-22 07:00:08.000"
   },
   {
     "id": 142,
@@ -1133,7 +2966,20 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.43444,
-    "lng": 5.49595
+    "lng": 5.49595,
+    "image": "/location-images/142.jpg",
+    "images": [
+      "/location-images/142.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/1369918/172/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 301,
+    "imageCoordinates": [
+      51.43197,
+      5.494166
+    ],
+    "imageCapturedAt": "2019-04-06 13:51:00.000"
   },
   {
     "id": 143,
@@ -1141,6 +2987,19 @@
     "categoryid": 4,
     "type": "Laadpunt",
     "lat": 51.44548,
-    "lng": 5.47468
+    "lng": 5.47468,
+    "image": "/location-images/143.jpg",
+    "images": [
+      "/location-images/143.jpg"
+    ],
+    "imageSourceUrl": "https://kartaview.org/details/9257801/11754/track-info",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageAttribution": "© Grab and KartaView Contributors",
+    "imageDistanceMeters": 58,
+    "imageCoordinates": [
+      51.444999,
+      5.474988
+    ],
+    "imageCapturedAt": "2024-07-23 10:41:20.000"
   }
 ]

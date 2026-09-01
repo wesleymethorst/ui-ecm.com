@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">ECM — Emergency Crisis Map</title>
+  <desc id="desc">ECM wordmark with the interlocking network mark</desc>
+  <g stroke="#fff" stroke-width="3.25">
+    <circle cx="32" cy="22" r="14"/>
+    <circle cx="23" cy="39" r="14"/>
+    <circle cx="41" cy="39" r="14"/>
+  </g>
+  <text
+    x="78"
+    y="43"
+    fill="#fff"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="38"
+    font-weight="600"
+    letter-spacing="1.5"
+  >ECM</text>
+</svg>

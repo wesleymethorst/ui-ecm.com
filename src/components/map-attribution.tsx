@@ -20,24 +20,21 @@ function MapAttribution() {
               ©
             </span>
             <a
-              href="https://leafletjs.com/"
+              href="https://protomaps.com/"
               className="text-sidebar-foreground no-underline hover:underline hover:underline-offset-2"
               rel="noreferrer"
               target="_blank"
             >
-              Leaflet
+              Protomaps
             </a>
             <span className="px-1.5 text-sidebar-foreground/45">|</span>
-            <span aria-hidden="true" className="mr-0.5 select-none">
-              ©
-            </span>
             <a
               href="https://www.openstreetmap.org/copyright"
               className="text-sidebar-foreground no-underline hover:underline hover:underline-offset-2"
               rel="noreferrer"
               target="_blank"
             >
-              OpenStreetMap
+              OpenStreetMap contributors
             </a>
           </div>
         )}
@@ -52,13 +49,11 @@ function MapAttribution() {
         <button
           aria-expanded={isOpen}
           aria-label={
-            isOpen
-              ? 'Kaartbronvermelding sluiten'
-              : 'Kaartbronvermelding openen'
+            isOpen ? 'Close map attribution' : 'Open map attribution'
           }
           className="group inline-flex size-9 shrink-0 items-center justify-center rounded-full p-0 text-sidebar-foreground transition-colors hover:bg-sidebar-accent focus-visible:z-10 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-sidebar-foreground"
           onClick={() => setIsOpen((open) => !open)}
-          title={isOpen ? 'Kaartbronvermelding sluiten' : 'Kaartbronvermelding'}
+          title={isOpen ? 'Close map attribution' : 'Map attribution'}
           type="button"
         >
           {isOpen ? (
@@ -73,9 +68,7 @@ function MapAttribution() {
             />
           )}
           <span className="sr-only">
-            {isOpen
-              ? 'Kaartbronvermelding sluiten'
-              : 'Kaartbronvermelding openen'}
+            {isOpen ? 'Close map attribution' : 'Open map attribution'}
           </span>
         </button>
       </div>

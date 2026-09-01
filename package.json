@@ -1,5 +1,5 @@
 {
-  "name": "notekaart",
+  "name": "ui-ecm.com",
   "private": true,
   "version": "0.0.0",
   "engines": {
@@ -8,6 +8,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "enrich:images": "node scripts/enrich-location-images.mjs",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview"
@@ -21,6 +22,7 @@
     "clsx": "^2.1.1",
     "leaflet": "^1.9.4",
     "lucide-react": "^1.38.0",
+    "protomaps-leaflet": "^5.1.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-leaflet": "^5.0.0",

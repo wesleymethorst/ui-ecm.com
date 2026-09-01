@@ -1,5 +1,7 @@
-import { useMemo, useState } from 'react'
-import { MapContainer, TileLayer } from 'react-leaflet'
+import { useEffect, useMemo, useState } from 'react'
+import type { Layer, LatLngBoundsExpression } from 'leaflet'
+import { MapContainer, useMap } from 'react-leaflet'
+import { leafletLayer } from 'protomaps-leaflet'
 import {
   Bike,
   Dumbbell,
@@ -39,6 +41,11 @@ import {
 import { TooltipProvider } from '@/components/ui/tooltip'
 import categoriesJson from '@/data/categories.json'
 import locationsJson from '@/data/locations.json'
+import {
+  translateCategoryName,
+  translateLocationName,
+  translateLocationType,
+} from '@/lib/translations'
 
 type Category = {
   id: number
@@ -50,13 +57,22 @@ type LocationItem = {
   name: string
   image: string
   images: string[]
+  imageSourceUrl?: string
+  imageLicense?: string
+  imageAttribution?: string
+  imageDistanceMeters?: number
+  imageCoordinates?: [number, number]
+  imageCapturedAt?: string | null
   categoryid: number
   type: string
   lat: number | null
   lng: number | null
 }
 
-const categories = categoriesJson as Category[]
+const categories = (categoriesJson as Category[]).map((category) => ({
+  ...category,
+  name: translateCategoryName(category.name),
+}))
 type RawLocationItem = Omit<LocationItem, 'image' | 'images'> & {
   image?: string
   images?: string[]
@@ -72,11 +88,18 @@ const locations: LocationItem[] = (
 
   return {
     ...location,
+    name: translateLocationName(location.name),
     image,
     images: images.length > 0 ? images : [image],
+    type: translateLocationType(location.type),
   }
 })
 const mapCenter: [number, number] = [51.4436, 5.4791]
+const offlineMapBounds: LatLngBoundsExpression = [
+  [51.2, 5.15],
+  [51.68, 5.8],
+]
+const offlineMapUrl = `${import.meta.env.BASE_URL}maps/eindhoven.pmtiles`
 
 const categoryIcons: Record<number, LucideIcon> = {
   1: HeartPulse,
@@ -89,6 +112,34 @@ const categoryIcons: Record<number, LucideIcon> = {
   8: Bike,
   9: Dumbbell,
   10: Landmark,
+}
+
+function OfflineMapLayer() {
+  const map = useMap()
+
+  useEffect(() => {
+    const layer = leafletLayer({
+      attribution:
+        'Protomaps © <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      bounds: offlineMapBounds,
+      flavor: 'light',
+      lang: 'en',
+      maxNativeZoom: 15,
+      maxZoom: 15,
+      minZoom: 12,
+      noWrap: true,
+      updateWhenIdle: true,
+      url: offlineMapUrl,
+    }) as unknown as Layer
+
+    layer.addTo(map)
+
+    return () => {
+      map.removeLayer(layer)
+    }
+  }, [map])
+
+  return null
 }
 
 function App() {
@@ -121,19 +172,21 @@ function App() {
           <SidebarHeader className="gap-0 py-1">
             <div className="flex min-h-10 min-w-0 items-center justify-center gap-2 px-1.5 py-1 group-data-[collapsible=icon]:min-h-12 group-data-[collapsible=icon]:px-0">
               <img
-                alt="EmergencyCrisisMap"
+                alt="ECM — Emergency Crisis Map"
                 className="hidden size-7 shrink-0 aspect-square object-contain group-data-[collapsible=icon]:block"
                 src="/ecm-network-mark-white.svg"
               />
-              <span className="truncate text-lg font-semibold tracking-[-0.01em] text-sidebar-foreground group-data-[collapsible=icon]:hidden">
-                EmergencyCrisisMap
-              </span>
+              <img
+                alt="ECM — Emergency Crisis Map"
+                className="h-7 w-auto max-w-full object-contain group-data-[collapsible=icon]:hidden"
+                src="/ecm-wordmark-white.svg"
+              />
             </div>
           </SidebarHeader>
 
           <SidebarContent>
             <SidebarGroup>
-              <SidebarGroupLabel>Locaties</SidebarGroupLabel>
+              <SidebarGroupLabel>Locations</SidebarGroupLabel>
               <SidebarGroupContent>
                 <SidebarMenu>
                   <SidebarMenuItem>
@@ -141,10 +194,10 @@ function App() {
                       type="button"
                       isActive={selectedCategoryId === null}
                       onClick={() => setSelectedCategoryId(null)}
-                      tooltip="Alle locaties"
+                      tooltip="All locations"
                     >
                       <MapPin />
-                      <span>Alle locaties</span>
+                      <span>All locations</span>
                     </SidebarMenuButton>
                     <SidebarMenuBadge>{locations.length}</SidebarMenuBadge>
                   </SidebarMenuItem>
@@ -182,9 +235,9 @@ function App() {
           <div className="pointer-events-none absolute top-3 left-3 z-[1001]">
             <div className="pointer-events-auto flex size-9 overflow-hidden rounded-full bg-sidebar shadow-lg ring-1 ring-inset ring-sidebar-border">
               <SidebarTrigger
-                aria-label="Zijbalk openen of sluiten"
+                aria-label="Open or close sidebar"
                 className="!size-9 rounded-full bg-transparent text-sidebar-foreground hover:bg-sidebar-accent hover:text-sidebar-accent-foreground focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground"
-                tooltip="Zijbalk openen of sluiten"
+                tooltip="Open or close sidebar"
               />
             </div>
           </div>
@@ -193,16 +246,17 @@ function App() {
             attributionControl={false}
             center={mapCenter}
             className="z-0 h-svh min-h-svh w-full font-sans"
+            maxBounds={offlineMapBounds}
+            maxBoundsViscosity={1}
+            maxZoom={15}
+            minZoom={12}
             zoomControl={false}
             scrollWheelZoom
             zoom={13}
           >
             <MapResizeHandler />
 
-            <TileLayer
-              attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-              url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-            />
+            <OfflineMapLayer />
 
             <MapZoomControls />
 

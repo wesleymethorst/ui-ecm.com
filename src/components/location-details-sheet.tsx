@@ -12,6 +12,11 @@ type LocationDetails = {
   id: number
   image: string
   images: string[]
+  imageSourceUrl?: string
+  imageLicense?: string
+  imageAttribution?: string
+  imageDistanceMeters?: number
+  imageCapturedAt?: string | null
   name: string
   type: string
   lat: number | null
@@ -88,20 +93,20 @@ function LocationDetailsSheet({
                 <>
                   {activeImageIndex > 0 && (
                     <button
-                      aria-label="Vorige afbeelding"
+                      aria-label="Previous image"
                       className="absolute top-1/2 left-3 flex size-9 -translate-y-1/2 items-center justify-center rounded-full bg-sidebar/85 text-sidebar-foreground shadow-lg ring-1 ring-inset ring-sidebar-border transition-colors hover:bg-sidebar-accent hover:text-sidebar-accent-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sidebar-ring"
                       onClick={() => changeImage(-1)}
-                      title="Vorige afbeelding"
+                      title="Previous image"
                       type="button"
                     >
                       <ChevronLeft aria-hidden="true" className="size-5" />
                     </button>
                   )}
                   <button
-                    aria-label="Volgende afbeelding"
+                    aria-label="Next image"
                     className="absolute top-1/2 right-3 flex size-9 -translate-y-1/2 items-center justify-center rounded-full bg-sidebar/85 text-sidebar-foreground shadow-lg ring-1 ring-inset ring-sidebar-border transition-colors hover:bg-sidebar-accent hover:text-sidebar-accent-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sidebar-ring"
                     onClick={() => changeImage(1)}
-                    title="Volgende afbeelding"
+                    title="Next image"
                     type="button"
                   >
                     <ChevronRight aria-hidden="true" className="size-5" />
@@ -112,11 +117,11 @@ function LocationDetailsSheet({
                         aria-current={
                           index === activeImageIndex ? 'true' : undefined
                         }
-                        aria-label={`Afbeelding ${index + 1} van ${imageCount}`}
+                        aria-label={`Image ${index + 1} of ${imageCount}`}
                         className="flex size-2.5 items-center justify-center rounded-full focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sidebar-ring"
                         key={`${image}-${index}`}
                         onClick={() => setActiveImageIndex(index)}
-                        title={`Afbeelding ${index + 1}`}
+                        title={`Image ${index + 1}`}
                         type="button"
                       >
                         <span
@@ -144,7 +149,7 @@ function LocationDetailsSheet({
             <div className="flex flex-1 flex-col gap-6 overflow-y-auto p-5">
               <section className="flex flex-col gap-3">
                 <h2 className="text-sm font-medium text-popover-foreground">
-                  Locatiegegevens
+                  Location details
                 </h2>
                 <dl className="divide-y divide-border rounded-lg border border-border bg-muted/30 text-sm">
                   <div className="flex items-center justify-between gap-4 px-3 py-2.5">
@@ -154,21 +159,21 @@ function LocationDetailsSheet({
                     </dd>
                   </div>
                   <div className="flex items-center justify-between gap-4 px-3 py-2.5">
-                    <dt className="text-muted-foreground">Categorie</dt>
+                    <dt className="text-muted-foreground">Category</dt>
                     <dd className="text-right font-medium text-popover-foreground">
-                      {categoryName ?? 'Onbekend'}
+                      {categoryName ?? 'Unknown'}
                     </dd>
                   </div>
                   <div className="flex items-center justify-between gap-4 px-3 py-2.5">
                     <dt className="text-muted-foreground">Latitude</dt>
                     <dd className="font-mono text-xs text-popover-foreground">
-                      {location.lat === null ? 'Onbekend' : location.lat.toFixed(5)}
+                      {location.lat === null ? 'Unknown' : location.lat.toFixed(5)}
                     </dd>
                   </div>
                   <div className="flex items-center justify-between gap-4 px-3 py-2.5">
                     <dt className="text-muted-foreground">Longitude</dt>
                     <dd className="font-mono text-xs text-popover-foreground">
-                      {location.lng === null ? 'Onbekend' : location.lng.toFixed(5)}
+                      {location.lng === null ? 'Unknown' : location.lng.toFixed(5)}
                     </dd>
                   </div>
                 </dl>
