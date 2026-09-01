@@ -52,8 +52,8 @@ type LocationItem = {
   images: string[]
   categoryid: number
   type: string
-  lat: number
-  lng: number
+  lat: number | null
+  lng: number | null
 }
 
 const categories = categoriesJson as Category[]
@@ -119,15 +119,15 @@ function App() {
       <SidebarProvider className="min-h-svh" defaultOpen>
         <Sidebar collapsible="icon">
           <SidebarHeader className="gap-0 py-1">
-            <div className="flex min-w-0 items-center gap-2 px-1.5 py-1 group-data-[collapsible=icon]:justify-center group-data-[collapsible=icon]:gap-0">
-              <span className="truncate text-lg font-semibold tracking-[-0.01em] text-sidebar-foreground group-data-[collapsible=icon]:hidden">
-                NL-Alert
-              </span>
-              <SidebarTrigger
-                className="ml-auto flex-none rounded-md text-sidebar-foreground hover:bg-sidebar-accent hover:text-sidebar-accent-foreground focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground group-data-[collapsible=icon]:ml-0"
-                aria-label="Zijbalk openen of sluiten"
-                tooltip="Zijbalk openen"
+            <div className="flex min-h-10 min-w-0 items-center justify-center gap-2 px-1.5 py-1 group-data-[collapsible=icon]:min-h-12 group-data-[collapsible=icon]:px-0">
+              <img
+                alt="EmergencyCrisisMap"
+                className="hidden size-7 shrink-0 aspect-square object-contain group-data-[collapsible=icon]:block"
+                src="/ecm-network-mark-white.svg"
               />
+              <span className="truncate text-lg font-semibold tracking-[-0.01em] text-sidebar-foreground group-data-[collapsible=icon]:hidden">
+                EmergencyCrisisMap
+              </span>
             </div>
           </SidebarHeader>
 
@@ -179,6 +179,16 @@ function App() {
         </Sidebar>
 
         <SidebarInset className="relative min-h-svh min-w-0 overflow-hidden">
+          <div className="pointer-events-none absolute top-3 left-3 z-[1001]">
+            <div className="pointer-events-auto flex size-9 overflow-hidden rounded-full bg-sidebar shadow-lg ring-1 ring-inset ring-sidebar-border">
+              <SidebarTrigger
+                aria-label="Zijbalk openen of sluiten"
+                className="!size-9 rounded-full bg-transparent text-sidebar-foreground hover:bg-sidebar-accent hover:text-sidebar-accent-foreground focus-visible:ring-2 active:bg-sidebar-accent active:text-sidebar-accent-foreground"
+                tooltip="Zijbalk openen of sluiten"
+              />
+            </div>
+          </div>
+
           <MapContainer
             attributionControl={false}
             center={mapCenter}

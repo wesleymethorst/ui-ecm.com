@@ -14,8 +14,8 @@ type LocationDetails = {
   images: string[]
   name: string
   type: string
-  lat: number
-  lng: number
+  lat: number | null
+  lng: number | null
 }
 
 type LocationDetailsSheetProps = {
@@ -162,13 +162,13 @@ function LocationDetailsSheet({
                   <div className="flex items-center justify-between gap-4 px-3 py-2.5">
                     <dt className="text-muted-foreground">Latitude</dt>
                     <dd className="font-mono text-xs text-popover-foreground">
-                      {location.lat.toFixed(5)}
+                      {location.lat === null ? 'Onbekend' : location.lat.toFixed(5)}
                     </dd>
                   </div>
                   <div className="flex items-center justify-between gap-4 px-3 py-2.5">
                     <dt className="text-muted-foreground">Longitude</dt>
                     <dd className="font-mono text-xs text-popover-foreground">
-                      {location.lng.toFixed(5)}
+                      {location.lng === null ? 'Onbekend' : location.lng.toFixed(5)}
                     </dd>
                   </div>
                 </dl>

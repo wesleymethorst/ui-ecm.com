@@ -11,8 +11,8 @@ type LocationMarkerData = {
   images: string[]
   name: string
   type: string
-  lat: number
-  lng: number
+  lat: number | null
+  lng: number | null
 }
 
 type MapLocationMarkerProps = {
@@ -40,6 +40,8 @@ function MapLocationMarker({
       }),
     [Icon],
   )
+
+  if (location.lat === null || location.lng === null) return null
 
   return (
     <Marker

@@ -1,212 +1,1146 @@
 [
-    {
-      "id": 1,
-      "name": "Ziekenhuis Centrum",
-      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 1,
-      "type": "Ziekenhuis",
-      "lat": 51.4416,
-      "lng": 5.4697
-    },
-    {
-      "id": 2,
-      "name": "Apotheek Strijp",
-      "image": "https://images.unsplash.com/photo-1585435557343-3b092031a831?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1585435557343-3b092031a831?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 1,
-      "type": "Apotheek",
-      "lat": 51.4472,
-      "lng": 5.4479
-    },
-    {
-      "id": 3,
-      "name": "Supermarkt Woensel",
-      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 2,
-      "type": "Supermarkt",
-      "lat": 51.4751,
-      "lng": 5.4758
-    },
-    {
-      "id": 4,
-      "name": "Drinkwaterpunt Centrum",
-      "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 3,
-      "type": "Drinkwaterpunt",
-      "lat": 51.4388,
-      "lng": 5.4782
-    },
-    {
-      "id": 5,
-      "name": "Waterbijvulpunt Tongelre",
-      "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 3,
-      "type": "Waterbijvulpunt",
-      "lat": 51.4374,
-      "lng": 5.5041
-    },
-    {
-      "id": 6,
-      "name": "Mobiele Accu-uitgifte Station",
-      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 4,
-      "type": "Mobiele accu-uitgifte",
-      "lat": 51.4485,
-      "lng": 5.4819
-    },
-    {
-      "id": 7,
-      "name": "Centraal Informatiepunt",
-      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 5,
-      "type": "Centraal informatiepunt",
-      "lat": 51.4392,
-      "lng": 5.4789
-    },
-    {
-      "id": 8,
-      "name": "Sporthal Zuid",
-      "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 9,
-      "type": "Sporthal",
-      "lat": 51.4208,
-      "lng": 5.4793
-    },
-    {
-      "id": 9,
-      "name": "Politiepost Centrum",
-      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 7,
-      "type": "Politie",
-      "lat": 51.4358,
-      "lng": 5.4796
-    },
-    {
-      "id": 10,
-      "name": "Fietsuitgiftepunt Station",
-      "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 8,
-      "type": "Fietsuitgiftepunt",
-      "lat": 51.4436,
-      "lng": 5.4791
-    },
-    {
-      "id": 11,
-      "name": "Sportpark Genneper Parken",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 9,
-      "type": "Sportpark",
-      "lat": 51.4058,
-      "lng": 5.4786
-    },
-    {
-      "id": 12,
-      "name": "Voetbalvereniging Woensel",
-      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 9,
-      "type": "Voetbalvereniging",
-      "lat": 51.4703,
-      "lng": 5.4788
-    },
-    {
-      "id": 13,
-      "name": "Sportschool Strijp",
-      "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 9,
-      "type": "Sportschool",
-      "lat": 51.4482,
-      "lng": 5.4451
-    },
-    {
-      "id": 14,
-      "name": "Moskee Centrum",
-      "image": "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 10,
-      "type": "Moskee",
-      "lat": 51.4385,
-      "lng": 5.477
-    },
-    {
-      "id": 15,
-      "name": "Kerk Centrum",
-      "image": "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
-        "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80"
-      ],
-      "categoryid": 10,
-      "type": "Kerk",
-      "lat": 51.4359,
-      "lng": 5.4799
-    }
+  {
+    "id": 1,
+    "name": "Drinkwaterpunt 1",
+    "categoryid": 3,
+    "type": "Drinkwaterpunt",
+    "lat": 51.44726,
+    "lng": 5.48717
+  },
+  {
+    "id": 2,
+    "name": "Drinkwaterpunt 2",
+    "categoryid": 3,
+    "type": "Drinkwaterpunt",
+    "lat": 51.44731,
+    "lng": 5.49141
+  },
+  {
+    "id": 3,
+    "name": "Drinkwaterpunt 3",
+    "categoryid": 3,
+    "type": "Drinkwaterpunt",
+    "lat": 51.44062,
+    "lng": 5.47995
+  },
+  {
+    "id": 4,
+    "name": "Drinkwaterpunt 4",
+    "categoryid": 3,
+    "type": "Drinkwaterpunt",
+    "lat": 51.44081,
+    "lng": 5.48016
+  },
+  {
+    "id": 5,
+    "name": "Drinkwaterpunt 5",
+    "categoryid": 3,
+    "type": "Drinkwaterpunt",
+    "lat": 51.44344,
+    "lng": 5.47827
+  },
+  {
+    "id": 6,
+    "name": "Drinkwaterpunt 6",
+    "categoryid": 3,
+    "type": "Drinkwaterpunt",
+    "lat": 51.43119,
+    "lng": 5.49123
+  },
+  {
+    "id": 7,
+    "name": "Drinkwaterpunt 7",
+    "categoryid": 3,
+    "type": "Drinkwaterpunt",
+    "lat": 51.44792,
+    "lng": 5.48617
+  },
+  {
+    "id": 8,
+    "name": "Drinkwaterpunt 8",
+    "categoryid": 3,
+    "type": "Drinkwaterpunt",
+    "lat": 51.45195,
+    "lng": 5.48077
+  },
+  {
+    "id": 9,
+    "name": "Drinkwaterpunt 9",
+    "categoryid": 3,
+    "type": "Drinkwaterpunt",
+    "lat": 51.43798,
+    "lng": 5.47119
+  },
+  {
+    "id": 10,
+    "name": "Apotheek Keijzer",
+    "categoryid": 1,
+    "type": "Apotheek",
+    "lat": 51.4344,
+    "lng": 5.47249
+  },
+  {
+    "id": 11,
+    "name": "Medisch Centrum Hoog Bergen",
+    "categoryid": 1,
+    "type": "Huisarts",
+    "lat": 51.43433,
+    "lng": 5.47249
+  },
+  {
+    "id": 12,
+    "name": "Gezondheidscentrum Plus",
+    "categoryid": 1,
+    "type": "Huisarts",
+    "lat": 51.43269,
+    "lng": 5.48266
+  },
+  {
+    "id": 13,
+    "name": "Stratumse Service Apotheek",
+    "categoryid": 1,
+    "type": "Apotheek",
+    "lat": 51.4323,
+    "lng": 5.4832
+  },
+  {
+    "id": 14,
+    "name": "Mildred Clinics",
+    "categoryid": 1,
+    "type": "Kliniek",
+    "lat": 51.43187,
+    "lng": 5.48654
+  },
+  {
+    "id": 15,
+    "name": "Huisartsencentrum Parklaan",
+    "categoryid": 1,
+    "type": "Huisarts",
+    "lat": 51.44399,
+    "lng": 5.50072
+  },
+  {
+    "id": 16,
+    "name": "Service Apotheek Haagdijk",
+    "categoryid": 1,
+    "type": "Apotheek",
+    "lat": 51.44243,
+    "lng": 5.50099
+  },
+  {
+    "id": 17,
+    "name": "Huisartsenpraktijk Averroes Haagdijk",
+    "categoryid": 1,
+    "type": "Huisarts",
+    "lat": 51.44248,
+    "lng": 5.50094
+  },
+  {
+    "id": 18,
+    "name": "FYEO",
+    "categoryid": 1,
+    "type": "Kliniek",
+    "lat": 51.4378,
+    "lng": 5.48223
+  },
+  {
+    "id": 19,
+    "name": "Visus",
+    "categoryid": 1,
+    "type": "Kliniek",
+    "lat": 51.44419,
+    "lng": 5.47993
+  },
+  {
+    "id": 20,
+    "name": "Huisartspraktijk Lichtstad",
+    "categoryid": 1,
+    "type": "Huisarts",
+    "lat": 51.43225,
+    "lng": 5.48334
+  },
+  {
+    "id": 21,
+    "name": "Huisartspraktijk van Eerdenbrugh",
+    "categoryid": 1,
+    "type": "Huisarts",
+    "lat": 51.43223,
+    "lng": 5.48338
+  },
+  {
+    "id": 22,
+    "name": "Huisartspraktijk Volckaerts",
+    "categoryid": 1,
+    "type": "Huisarts",
+    "lat": 51.4322,
+    "lng": 5.48342
+  },
+  {
+    "id": 23,
+    "name": "Medisch Kwartier Eindhoven",
+    "categoryid": 1,
+    "type": "Kliniek",
+    "lat": 51.43322,
+    "lng": 5.48187
+  },
+  {
+    "id": 24,
+    "name": "Albert Heijn",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.4516,
+    "lng": 5.47228
+  },
+  {
+    "id": 25,
+    "name": "Ekoplaza",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.44915,
+    "lng": 5.47448
+  },
+  {
+    "id": 26,
+    "name": "Diar Supermarkt",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.44672,
+    "lng": 5.4755
+  },
+  {
+    "id": 27,
+    "name": "Jumbo",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.43324,
+    "lng": 5.48976
+  },
+  {
+    "id": 28,
+    "name": "Albert Heijn",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.43244,
+    "lng": 5.47017
+  },
+  {
+    "id": 29,
+    "name": "Ekoplaza",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.43113,
+    "lng": 5.48517
+  },
+  {
+    "id": 30,
+    "name": "Polo Smak",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.43365,
+    "lng": 5.48833
+  },
+  {
+    "id": 31,
+    "name": "Omid Store",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.4344,
+    "lng": 5.48432
+  },
+  {
+    "id": 32,
+    "name": "Albert Heijn",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.44117,
+    "lng": 5.479
+  },
+  {
+    "id": 33,
+    "name": "Waaberi Shop",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.44887,
+    "lng": 5.47432
+  },
+  {
+    "id": 34,
+    "name": "Izzet",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.45046,
+    "lng": 5.47245
+  },
+  {
+    "id": 35,
+    "name": "Lidl",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.45082,
+    "lng": 5.47185
+  },
+  {
+    "id": 36,
+    "name": "Oost-West",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.45099,
+    "lng": 5.47154
+  },
+  {
+    "id": 37,
+    "name": "Amazing Sang Lee",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.45069,
+    "lng": 5.47282
+  },
+  {
+    "id": 38,
+    "name": "Zapolski Supermarkt",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.45145,
+    "lng": 5.47233
+  },
+  {
+    "id": 39,
+    "name": "Jumbo",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.44037,
+    "lng": 5.4725
+  },
+  {
+    "id": 40,
+    "name": "Hizmet Supermarkt",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.44805,
+    "lng": 5.47539
+  },
+  {
+    "id": 41,
+    "name": "ALDI",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.44253,
+    "lng": 5.50236
+  },
+  {
+    "id": 42,
+    "name": "Albert Heijn",
+    "categoryid": 2,
+    "type": "Supermarkt",
+    "lat": 51.44126,
+    "lng": 5.50271
+  },
+  {
+    "id": 43,
+    "name": "Politiebureau Begijnenhof",
+    "categoryid": 7,
+    "type": "Politie",
+    "lat": 51.43633,
+    "lng": 5.48038
+  },
+  {
+    "id": 44,
+    "name": "Politiebureau Eindhoven Mathildelaan",
+    "categoryid": 7,
+    "type": "Politie",
+    "lat": 51.44134,
+    "lng": 5.47271
+  },
+  {
+    "id": 45,
+    "name": "Brandweerpost Eindhoven-Centrum",
+    "categoryid": 7,
+    "type": "Brandweer",
+    "lat": 51.43428,
+    "lng": 5.47411
+  },
+  {
+    "id": 46,
+    "name": "Bedrijfsbrandweer TU Eindhoven",
+    "categoryid": 7,
+    "type": "Brandweer",
+    "lat": 51.44776,
+    "lng": 5.49674
+  },
+  {
+    "id": 47,
+    "name": "Stadhuis Eindhoven",
+    "categoryid": 5,
+    "type": "Gemeentehuis",
+    "lat": 51.43515,
+    "lng": 5.48047
+  },
+  {
+    "id": 48,
+    "name": "Stadskantoor Eindhoven",
+    "categoryid": 5,
+    "type": "Gemeentehuis",
+    "lat": 51.43489,
+    "lng": 5.47958
+  },
+  {
+    "id": 49,
+    "name": "de Bibliotheek Eindhoven",
+    "categoryid": 5,
+    "type": "Bibliotheek",
+    "lat": 51.43901,
+    "lng": 5.47445
+  },
+  {
+    "id": 50,
+    "name": "de Bibliotheek Eindhoven - tweede node",
+    "categoryid": 5,
+    "type": "Bibliotheek",
+    "lat": 51.43944,
+    "lng": 5.47475
+  },
+  {
+    "id": 51,
+    "name": "Bibliotheek TU/e",
+    "categoryid": 5,
+    "type": "Bibliotheek",
+    "lat": 51.44781,
+    "lng": 5.4875
+  },
+  {
+    "id": 52,
+    "name": "Bewonersbibliotheek Wilgenhof",
+    "categoryid": 5,
+    "type": "Bibliotheek",
+    "lat": 51.43021,
+    "lng": 5.4895
+  },
+  {
+    "id": 53,
+    "name": "Kamer van Koophandel",
+    "categoryid": 5,
+    "type": "Overheidskantoor",
+    "lat": 51.4459,
+    "lng": 5.48181
+  },
+  {
+    "id": 54,
+    "name": "Kadaster",
+    "categoryid": 5,
+    "type": "Overheidskantoor",
+    "lat": 51.4441,
+    "lng": 5.4795
+  },
+  {
+    "id": 55,
+    "name": "UWV werkplein",
+    "categoryid": 5,
+    "type": "Overheidskantoor",
+    "lat": 51.44474,
+    "lng": 5.47324
+  },
+  {
+    "id": 56,
+    "name": "UWV",
+    "categoryid": 5,
+    "type": "Overheidskantoor",
+    "lat": 51.44483,
+    "lng": 5.47208
+  },
+  {
+    "id": 57,
+    "name": "Omgevingsdienst Zuidoost-Brabant",
+    "categoryid": 5,
+    "type": "Overheidskantoor",
+    "lat": 51.43558,
+    "lng": 5.47897
+  },
+  {
+    "id": 58,
+    "name": "Metropoolregio Eindhoven",
+    "categoryid": 5,
+    "type": "Overheidskantoor",
+    "lat": 51.4409,
+    "lng": 5.48172
+  },
+  {
+    "id": 59,
+    "name": "Regionaal Historisch Centrum Eindhoven",
+    "categoryid": 5,
+    "type": "Overheidskantoor",
+    "lat": 51.44078,
+    "lng": 5.48172
+  },
+  {
+    "id": 60,
+    "name": "Gemeentelijk Depot Eindhoven",
+    "categoryid": 5,
+    "type": "Overheidskantoor",
+    "lat": 51.43543,
+    "lng": 5.48613
+  },
+  {
+    "id": 61,
+    "name": "Stichting de Kunsterij",
+    "categoryid": 5,
+    "type": "Buurthuis",
+    "lat": 51.4346,
+    "lng": 5.4941
+  },
+  {
+    "id": 62,
+    "name": "De Blokhut",
+    "categoryid": 5,
+    "type": "Buurthuis",
+    "lat": 51.43428,
+    "lng": 5.48938
+  },
+  {
+    "id": 63,
+    "name": "Spoorweg OntspanningsVereniging Voorwaarts Eindhoven",
+    "categoryid": 5,
+    "type": "Buurthuis",
+    "lat": 51.44447,
+    "lng": 5.50109
+  },
+  {
+    "id": 64,
+    "name": "Sociëteit Amnis",
+    "categoryid": 5,
+    "type": "Buurthuis",
+    "lat": 51.44146,
+    "lng": 5.48234
+  },
+  {
+    "id": 65,
+    "name": "Eindhovens Studenten Corps",
+    "categoryid": 5,
+    "type": "Buurthuis",
+    "lat": 51.43782,
+    "lng": 5.48093
+  },
+  {
+    "id": 66,
+    "name": "SSRE",
+    "categoryid": 5,
+    "type": "Buurthuis",
+    "lat": 51.43969,
+    "lng": 5.48058
+  },
+  {
+    "id": 67,
+    "name": "Demos",
+    "categoryid": 5,
+    "type": "Buurthuis",
+    "lat": 51.43714,
+    "lng": 5.47756
+  },
+  {
+    "id": 68,
+    "name": "Burgers",
+    "categoryid": 5,
+    "type": "Buurthuis",
+    "lat": 51.434,
+    "lng": 5.4857
+  },
+  {
+    "id": 69,
+    "name": "TU/e Flux building",
+    "categoryid": 4,
+    "type": "Energievoorziening",
+    "lat": 51.4478,
+    "lng": 5.49
+  },
+  {
+    "id": 70,
+    "name": "Haasje Over (PowerNEST), Strijp-S",
+    "categoryid": 4,
+    "type": "Energievoorziening",
+    "lat": 51.44842,
+    "lng": 5.45564
+  },
+  {
+    "id": 71,
+    "name": "Atlas - TU/e",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.44788,
+    "lng": 5.48612
+  },
+  {
+    "id": 72,
+    "name": "Eindhoven City Hall (Stadhuis)",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.43515,
+    "lng": 5.48047
+  },
+  {
+    "id": 73,
+    "name": "Brainport Industries Campus (BIC 1)",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.46126,
+    "lng": 5.40287
+  },
+  {
+    "id": 74,
+    "name": "Haasje Over",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.44842,
+    "lng": 5.45564
+  },
+  {
+    "id": 75,
+    "name": "Parking Garage Om de Hoek",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.44747,
+    "lng": 5.46018
+  },
+  {
+    "id": 76,
+    "name": "Anton - Strijp-S",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.44762,
+    "lng": 5.45528
+  },
+  {
+    "id": 77,
+    "name": "Gerard - Strijp-S",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.44707,
+    "lng": 5.45695
+  },
+  {
+    "id": 78,
+    "name": "Frits - S-West",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": 79,
+    "name": "Frederik - S-West",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": 80,
+    "name": "Maria - S-West",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": 81,
+    "name": "Benjamin - S-West",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": 82,
+    "name": "Spectrum - TU/e",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": 83,
+    "name": "Student Sports Centre - TU/e",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "id": 84,
+    "name": "MetaForum - TU/e",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.44755,
+    "lng": 5.48755
+  },
+  {
+    "id": 85,
+    "name": "Flux - TU/e",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.4478,
+    "lng": 5.49
+  },
+  {
+    "id": 86,
+    "name": "Ceres - TU/e",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.44709,
+    "lng": 5.48875
+  },
+  {
+    "id": 87,
+    "name": "Vertigo - TU/e",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.44623,
+    "lng": 5.48505
+  },
+  {
+    "id": 88,
+    "name": "High Tech Campus Eindhoven",
+    "categoryid": 6,
+    "type": "Opvangkandidaat",
+    "lat": 51.4102,
+    "lng": 5.455
+  },
+  {
+    "id": 89,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44488,
+    "lng": 5.48411
+  },
+  {
+    "id": 90,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44836,
+    "lng": 5.48507
+  },
+  {
+    "id": 91,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44989,
+    "lng": 5.49452
+  },
+  {
+    "id": 92,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44816,
+    "lng": 5.48895
+  },
+  {
+    "id": 93,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43326,
+    "lng": 5.47109
+  },
+  {
+    "id": 94,
+    "name": "Allego Charging Station",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43424,
+    "lng": 5.49079
+  },
+  {
+    "id": 95,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43297,
+    "lng": 5.49448
+  },
+  {
+    "id": 96,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44903,
+    "lng": 5.48107
+  },
+  {
+    "id": 97,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.42944,
+    "lng": 5.49409
+  },
+  {
+    "id": 98,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44716,
+    "lng": 5.47301
+  },
+  {
+    "id": 99,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.4304,
+    "lng": 5.47048
+  },
+  {
+    "id": 100,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43158,
+    "lng": 5.46985
+  },
+  {
+    "id": 101,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43106,
+    "lng": 5.47214
+  },
+  {
+    "id": 102,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.42952,
+    "lng": 5.47541
+  },
+  {
+    "id": 103,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43024,
+    "lng": 5.47533
+  },
+  {
+    "id": 104,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43233,
+    "lng": 5.47386
+  },
+  {
+    "id": 105,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43553,
+    "lng": 5.47238
+  },
+  {
+    "id": 106,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43768,
+    "lng": 5.4707
+  },
+  {
+    "id": 107,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43781,
+    "lng": 5.47084
+  },
+  {
+    "id": 108,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43699,
+    "lng": 5.46877
+  },
+  {
+    "id": 109,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.4457,
+    "lng": 5.47468
+  },
+  {
+    "id": 110,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44779,
+    "lng": 5.47638
+  },
+  {
+    "id": 111,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44048,
+    "lng": 5.48329
+  },
+  {
+    "id": 112,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.42963,
+    "lng": 5.491
+  },
+  {
+    "id": 113,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44141,
+    "lng": 5.50037
+  },
+  {
+    "id": 114,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44022,
+    "lng": 5.48974
+  },
+  {
+    "id": 115,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44145,
+    "lng": 5.49707
+  },
+  {
+    "id": 116,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44394,
+    "lng": 5.4979
+  },
+  {
+    "id": 117,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44042,
+    "lng": 5.49833
+  },
+  {
+    "id": 118,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43899,
+    "lng": 5.49833
+  },
+  {
+    "id": 119,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43731,
+    "lng": 5.49244
+  },
+  {
+    "id": 120,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43732,
+    "lng": 5.49239
+  },
+  {
+    "id": 121,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43982,
+    "lng": 5.49497
+  },
+  {
+    "id": 122,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43902,
+    "lng": 5.49464
+  },
+  {
+    "id": 123,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43414,
+    "lng": 5.48383
+  },
+  {
+    "id": 124,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43314,
+    "lng": 5.49461
+  },
+  {
+    "id": 125,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43126,
+    "lng": 5.48996
+  },
+  {
+    "id": 126,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43611,
+    "lng": 5.49166
+  },
+  {
+    "id": 127,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.45133,
+    "lng": 5.47572
+  },
+  {
+    "id": 128,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44721,
+    "lng": 5.47368
+  },
+  {
+    "id": 129,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43128,
+    "lng": 5.49438
+  },
+  {
+    "id": 130,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44199,
+    "lng": 5.48035
+  },
+  {
+    "id": 131,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44188,
+    "lng": 5.48039
+  },
+  {
+    "id": 132,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43635,
+    "lng": 5.47678
+  },
+  {
+    "id": 133,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43509,
+    "lng": 5.47311
+  },
+  {
+    "id": 134,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43361,
+    "lng": 5.47449
+  },
+  {
+    "id": 135,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43335,
+    "lng": 5.47771
+  },
+  {
+    "id": 136,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43396,
+    "lng": 5.47705
+  },
+  {
+    "id": 137,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44269,
+    "lng": 5.49877
+  },
+  {
+    "id": 138,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.4381,
+    "lng": 5.49588
+  },
+  {
+    "id": 139,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44075,
+    "lng": 5.50171
+  },
+  {
+    "id": 140,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44224,
+    "lng": 5.49929
+  },
+  {
+    "id": 141,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44069,
+    "lng": 5.49719
+  },
+  {
+    "id": 142,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.43444,
+    "lng": 5.49595
+  },
+  {
+    "id": 143,
+    "name": "EV charging point (unnamed)",
+    "categoryid": 4,
+    "type": "Laadpunt",
+    "lat": 51.44548,
+    "lng": 5.47468
+  }
 ]
