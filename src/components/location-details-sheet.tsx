@@ -7,6 +7,7 @@ import {
   SheetHeader,
   SheetTitle,
 } from '@/components/ui/sheet'
+import { ScrollArea } from '@/components/ui/scroll-area'
 
 type LocationDetails = {
   id: number
@@ -66,7 +67,7 @@ function LocationDetailsSheet({
         showOverlay={false}
       >
         {location && (
-          <>
+          <ScrollArea className="min-h-0 flex-1">
             <div className="relative h-[21rem] w-full shrink-0 overflow-hidden bg-muted">
               <div
                 className="flex h-full w-full transition-transform duration-500 ease-out"
@@ -146,7 +147,7 @@ function LocationDetailsSheet({
               </div>
             </SheetHeader>
 
-            <div className="flex flex-1 flex-col gap-6 overflow-y-auto p-5">
+            <div className="flex flex-col gap-6 p-5">
               <section className="flex flex-col gap-3">
                 <h2 className="text-sm font-medium text-popover-foreground">
                   Location details
@@ -179,7 +180,7 @@ function LocationDetailsSheet({
                 </dl>
               </section>
             </div>
-          </>
+          </ScrollArea>
         )}
       </SheetContent>
     </Sheet>
