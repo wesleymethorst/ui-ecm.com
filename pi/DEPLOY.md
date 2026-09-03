@@ -61,3 +61,19 @@ upstream WiFi and internet are available again.
 While connected only to `Eindhoven-Info`, verify the map, markers, location
 images and interface. External attribution links cannot open offline, but no
 external service is required for the application itself.
+
+## Kiosk display
+
+Raspberry Pi OS uses the per-user Labwc autostart file to launch Chromium in
+full-screen kiosk mode after its automatic login:
+
+```sh
+mkdir -p ~/.config/labwc
+cp pi/labwc-autostart ~/.config/labwc/autostart
+chmod +x pi/start-kiosk.sh
+sudo reboot
+```
+
+The kiosk opens `http://127.0.0.1`, so it works in both upstream WiFi and
+offline hotspot mode. The launcher waits until the Docker health endpoint is
+available instead of showing Chromium's connection error page during boot.

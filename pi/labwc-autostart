@@ -1,0 +1,3 @@
+# Dedicated ui-ecm appliance session. This intentionally replaces the normal
+# Raspberry Pi desktop panel and file manager.
+/home/admin/ui-ecm.com/pi/start-kiosk.sh &
