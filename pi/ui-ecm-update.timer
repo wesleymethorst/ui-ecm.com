@@ -3,11 +3,10 @@ Description=Check GHCR periodically for ui-ecm updates
 
 [Timer]
 OnBootSec=2min
-OnUnitActiveSec=5min
-RandomizedDelaySec=30s
+OnUnitActiveSec=1min
+RandomizedDelaySec=10s
 Persistent=true
 Unit=ui-ecm-update.service
 
 [Install]
 WantedBy=timers.target
-
