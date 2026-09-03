@@ -1,60 +1,63 @@
-# Deploying to the Raspberry Pi
+# Raspberry Pi deployment
 
-Runbook for whoever has physical access to the Pi. Everything through step 2
-can be done on any laptop -- nothing here needs Node installed on the Pi
-itself, only Python (which Raspberry Pi OS already includes).
+The Pi runs ui-ecm as a Docker Compose appliance. The complete map, location
+data, images and fonts are contained in the image and work without internet.
 
-## Prerequisites
-- Raspberry Pi OS flashed and booted, reachable over SSH -- see
-  `FirstWeekHackathon/raspberry-pi-guide.md` for the full walkthrough
-  (headless setup via Raspberry Pi Imager, no monitor/keyboard needed).
+## Start the application
 
-## 1. Build the app (on a laptop, not the Pi)
-```
-npm install
-npm run build
-```
-This produces a `dist/` folder containing the whole app, pmtiles map file
-included -- self-contained, no internet needed to load it.
-
-## 2. Copy `dist/` onto the Pi
-From the laptop:
-```
-scp -r dist pi@<pi-hostname-or-ip>.local:~/ui-ecm.com-dist
-```
-(Swap `<pi-hostname-or-ip>` for whatever hostname you set during headless
-setup.)
-
-## 3. On the Pi: install the range-request server
-The pmtiles map file is read via HTTP range requests, which Python's plain
-`http.server` doesn't support -- this one-line swap does:
-```
-pip install rangehttpserver
+```sh
+docker compose pull app
+docker compose up -d app
+docker compose ps
 ```
 
-## 4. Set the hotspot up (one-time)
-Copy `setup-hotspot.sh` and `ecm-map.service` from this `pi/` folder onto the
-Pi (same `scp` approach as step 2), then on the Pi:
-```
-chmod +x setup-hotspot.sh
-./setup-hotspot.sh
-```
-Before running it, open `ecm-map.service` and point `WorkingDirectory=` at
-wherever you actually copied `dist/` to in step 2 -- the checked-in file
-uses a placeholder path (`/home/pi/ui-ecm.com-dist`).
+The application is exposed on port 80 and the container restarts after a
+crash or reboot.
 
-## 5. Enable the map service
-```
-sudo cp ecm-map.service /etc/systemd/system/
+## Automatic updates
+
+Install the update service and timer once:
+
+```sh
+sudo cp pi/ui-ecm-update.service pi/ui-ecm-update.timer /etc/systemd/system/
 sudo systemctl daemon-reload
-sudo systemctl enable --now ecm-map.service
+sudo systemctl enable --now ui-ecm-update.timer
 ```
-From now on the Pi serves the map automatically on every boot -- no SSH
-needed during the actual demo.
 
-## 6. Verify
-On a phone: forget every other WiFi, connect to the hotspot SSID from
-`setup-hotspot.sh`, open a browser to `http://10.42.0.1`. The map should load
-with zero internet anywhere in the chain -- test this with the Pi's own
-upstream internet actually disconnected, not just "phone on hotspot", since
-that's the check most likely to embarrass you if skipped.
+The timer checks GHCR about once a minute. Failed downloads leave the current
+container untouched. A downloaded image is activated only when its health
+check succeeds; otherwise the updater rolls back to the previous image.
+
+Inspect the timer and logs with:
+
+```sh
+systemctl list-timers ui-ecm-update.timer
+journalctl -u ui-ecm-update.service --no-pager
+```
+
+## Offline hotspot mode
+
+With only one WiFi interface, activating the hotspot disconnects upstream
+WiFi and the current SSH session:
+
+```sh
+./pi/setup-hotspot.sh
+```
+
+Connect a phone or laptop to `Eindhoven-Info`, then open
+`http://10.42.0.1`. SSH is available again at `admin@10.42.0.1`.
+
+To leave hotspot mode and reconnect the WiFi that was active during setup:
+
+```sh
+./pi/use-upstream-wifi.sh
+```
+
+This also disconnects SSH briefly. Automatic image downloads resume when the
+upstream WiFi and internet are available again.
+
+## Offline verification
+
+While connected only to `Eindhoven-Info`, verify the map, markers, location
+images and interface. External attribution links cannot open offline, but no
+external service is required for the application itself.

@@ -26,9 +26,13 @@ fi
 
 echo "Checking GHCR for a new ui-ecm image..."
 
-# If the Pi is offline or GHCR cannot be reached, this exits without touching
-# the currently running container.
-docker compose pull app
+# If the Pi is offline or GHCR cannot be reached, leave the currently running
+# container untouched. Offline mode is normal for this appliance, so it is not
+# reported as a failed systemd service.
+if ! docker compose pull app; then
+  echo "GHCR is unavailable; keeping the current offline version."
+  exit 0
+fi
 
 downloaded_image_id=$(docker image inspect --format '{{.Id}}' "$IMAGE")
 
@@ -74,4 +78,3 @@ docker compose up -d --no-deps --force-recreate app
 rollback_status=$(docker inspect --format '{{if .State.Health}}{{.State.Health.Status}}{{else}}{{.State.Status}}{{end}}' "$CONTAINER" 2>/dev/null || true)
 echo "Rollback container started with status: ${rollback_status:-unknown}" >&2
 exit 1
-
