@@ -1,0 +1,14 @@
+[Unit]
+Description=Update the ui-ecm container with health-check rollback
+After=docker.service network-online.target
+Wants=network-online.target
+Requires=docker.service
+
+[Service]
+Type=oneshot
+User=admin
+Group=admin
+SupplementaryGroups=docker
+WorkingDirectory=/home/admin/ui-ecm.com
+ExecStart=/home/admin/ui-ecm.com/pi/update-container.sh
+

@@ -2,10 +2,7 @@ name: ui-ecm
 
 services:
   app:
-    image: ui-ecm:local
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: ghcr.io/wesleymethorst/ui-ecm.com:latest
     container_name: ui-ecm
     restart: unless-stopped
     ports:
@@ -18,4 +15,3 @@ services:
       retries: 3
     security_opt:
       - no-new-privileges:true
-
