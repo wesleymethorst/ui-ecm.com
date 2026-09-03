@@ -1,3 +1,7 @@
-# Dedicated ui-ecm appliance session. This intentionally replaces the normal
-# Raspberry Pi desktop panel and file manager.
+# Keep Raspberry Pi OS display/session initialization, then launch ui-ecm on
+# top of the desktop in full-screen kiosk mode.
+/usr/bin/lwrespawn /usr/bin/pcmanfm-pi &
+/usr/bin/lwrespawn /usr/bin/wf-panel-pi &
+/usr/bin/kanshi &
+/usr/bin/lxsession-xdg-autostart
 /home/admin/ui-ecm.com/pi/start-kiosk.sh &

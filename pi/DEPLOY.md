@@ -64,8 +64,9 @@ external service is required for the application itself.
 
 ## Kiosk display
 
-Raspberry Pi OS uses the per-user Labwc autostart file to launch Chromium in
-full-screen kiosk mode after its automatic login:
+Raspberry Pi OS uses the per-user Labwc autostart file to initialize its
+display session and then launch Chromium in full-screen kiosk mode after its
+automatic login:
 
 ```sh
 mkdir -p ~/.config/labwc
