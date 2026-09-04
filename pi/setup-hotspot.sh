@@ -8,7 +8,7 @@ set -euo pipefail
 
 INTERFACE="${ECM_WIFI_INTERFACE:-wlan0}"
 HOTSPOT_CONNECTION="ecm-hotspot"
-SSID="Eindhoven-Info"
+SSID="ecm-project"
 PASSWORD="${ECM_HOTSPOT_PASSWORD:-password}" # Temporary demo credential.
 STATE_DIRECTORY="/home/admin/.local/state/ui-ecm"
 UPSTREAM_FILE="$STATE_DIRECTORY/upstream-connection"

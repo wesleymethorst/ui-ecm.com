@@ -44,7 +44,7 @@ WiFi and the current SSH session:
 ./pi/setup-hotspot.sh
 ```
 
-Connect a phone or laptop to `Eindhoven-Info`, then open
+Connect a phone or laptop to `ecm-project`, then open
 `http://10.42.0.1`. SSH is available again at `admin@10.42.0.1`.
 
 To leave hotspot mode and reconnect the WiFi that was active during setup:
@@ -58,7 +58,7 @@ upstream WiFi and internet are available again.
 
 ## Offline verification
 
-While connected only to `Eindhoven-Info`, verify the map, markers, location
+While connected only to `ecm-project`, verify the map, markers, location
 images and interface. External attribution links cannot open offline, but no
 external service is required for the application itself.
 
